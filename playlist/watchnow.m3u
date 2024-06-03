@@ -108,20 +108,20 @@ https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="https://image.gerenciador.ch/gazeta_hd.png" group-title="Canais Abertos",GAZETA
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8+
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA" tvg-logo="https://github.com/clezioyan/gerenciador/blob/main/imagens/globo.png?raw=true" group-title="Canais Abertos",GLOBO BAHIA
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA" tvg-logo="https://drive.google.com/file/d/10NMhtdu26c6UgQ_sRcY3YHwx_lHkX04x/view?usp=sharing" group-title="Canais Abertos",GLOBO BAHIA
 https://cr7v.short.gy/manoiptvfree/REDEBA/Index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO CURITIBA" tvg-logo="https://github.com/clezioyan/gerenciador/blob/main/imagens/globo.png?raw=true" group-title="Canais Abertos",GLOBO CURITIBA
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CURITIBA" tvg-logo="https://drive.google.com/file/d/10NMhtdu26c6UgQ_sRcY3YHwx_lHkX04x/view?usp=sharing" group-title="Canais Abertos",GLOBO CURITIBA
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FORTALEZA" tvg-logo="https://github.com/clezioyan/gerenciador/blob/main/imagens/globo.png?raw=true" group-title="Canais Abertos",GLOBO FORTALEZA
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FORTALEZA" tvg-logo="https://drive.google.com/file/d/10NMhtdu26c6UgQ_sRcY3YHwx_lHkX04x/view?usp=sharing" group-title="Canais Abertos",GLOBO FORTALEZA
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="https://github.com/clezioyan/gerenciador/blob/main/imagens/globo.png?raw=true" group-title="Canais Abertos",GLOBO MINAS
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="https://drive.google.com/file/d/10NMhtdu26c6UgQ_sRcY3YHwx_lHkX04x/view?usp=sharing" group-title="Canais Abertos",GLOBO MINAS
 
-#EXTINF:-1 tvg-id=""tvg-name="GLOBO PORTO ALEGRE" tvg-logo="https://github.com/clezioyan/gerenciador/blob/main/imagens/globo.png?raw=true" group-title="Canais Abertos",GLOBO PORTO ALEGRE
+#EXTINF:-1 tvg-id=""tvg-name="GLOBO PORTO ALEGRE" tvg-logo="https://drive.google.com/file/d/10NMhtdu26c6UgQ_sRcY3YHwx_lHkX04x/view?usp=sharing" group-title="Canais Abertos",GLOBO PORTO ALEGRE
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="https://github.com/clezioyan/gerenciador/blob/main/imagens/globo.png?raw=true" group-title="Canais Abertos",GLOBO RJ
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="https://drive.google.com/file/d/10NMhtdu26c6UgQ_sRcY3YHwx_lHkX04x/view?usp=sharing" group-title="Canais Abertos",GLOBO RJ
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="https://github.com/clezioyan/gerenciador/blob/main/imagens/globo.png?raw=true" group-title="Canais Abertos",GLOBO SP
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="https://drive.google.com/file/d/10NMhtdu26c6UgQ_sRcY3YHwx_lHkX04x/view?usp=sharing" group-title="Canais Abertos",GLOBO SP
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="https://github.com/clezioyan/gerenciador/blob/main/imagens/globonews.png" group-title="Notícias",GLOBO NEWS
