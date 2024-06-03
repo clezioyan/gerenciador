@@ -49,7 +49,7 @@ https://mycdn.delivery/cartoonito/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://image.gerenciador.ch/cinemax.png" group-title="Filmes e Séries",CINEMAX
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="https://github.com/clezioyan/gerenciador/blob/main/imagens/cnnbrasil.png?raw=true" group-title="Notícias",CNN BRASIL
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="https://pixeldrain.com/api/file/HD9eHTFc" group-title="Notícias",CNN BRASIL
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/6a9edbefc23e452d8933c7fde4c83cde/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="https://image.gerenciador.ch/combate.png" group-title="Esportes",COMBATE
