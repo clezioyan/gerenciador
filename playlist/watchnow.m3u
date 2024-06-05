@@ -58,10 +58,10 @@ https://mycdn.delivery/cartoonito/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://image.gerenciador.ch/cartoonito.png" group-title="Infantil",CARTOONITO (Alterar)
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/344
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.postimg.cc/1twsMRCf/cazetv.png" group-title="Esportes",CAZE TV
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="" group-title="Esportes",CAZE TV
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1145
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2" tvg-logo="https://i.postimg.cc/1twsMRCf/cazetv.png" group-title="Esportes",CAZE TV 2
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2" tvg-logo="" group-title="Esportes",CAZE TV 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1266
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE CANAL" tvg-logo="https://image.gerenciador.ch/Cinecanal.png" group-title="Filmes e Séries",CINE CANAL
