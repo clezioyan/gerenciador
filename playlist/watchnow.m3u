@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://image.gerenciador.ch/aande.png" group-title="Filmes e Séries",A&E
 https://watch.vcdn.in/aee/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AGRO+" tvg-logo="https://image.gerenciador.ch/agromais.png" group-title="Notícias",AGRO+ 
+#EXTINF:-1 tvg-id="" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/hjsYX31j/agromais.png" group-title="Notícias",AGRO+ 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/852
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://image.gerenciador.ch/amc.png" group-title="Filmes e Séries",AMC 
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.postimg.cc/XJ4h70Fm/amc.png" group-title="Filmes e Séries",AMC 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/228
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://image.gerenciador.ch/animalplanet.png" group-title="Variedades e Documentários",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/brFFTDMf/animalplanet.png" group-title="Variedades e Documentários",ANIMAL PLANET
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/61
 
 #EXTINF:-1 tvg-id="" tvg-name="ARTE1" tvg-logo="https://image.gerenciador.ch/arte1.png" group-title="Variedades e Documentários",ARTE1
