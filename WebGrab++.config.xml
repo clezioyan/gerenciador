@@ -1,0 +1,24 @@
+<settings>
+  <filename>guide.xml</filename>
+  <mode>full</mode>
+  <postprocess>yes</postprocess>
+  <timespan>7</timespan>
+    <channel update="i" site="lineup.net.br" site_id="579146" xmltv_id="A&E">A&E</channel>
+    <channel update="i" site="clarotv.com.br" site_id="22_#_2353" xmltv_id="AGRO+">AGRO+</channel>
+    <channel update="i" site="lineup.net.br" site_id="310177" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="lineup.net.br" site_id="992823" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel update="i" site="lineup.net.br" site_id="462230" xmltv_id="ARTE1">ARTE1</channel>
+    <channel update="i" site="lineup.net.br" site_id="334752" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="lineup.net.br" site_id="367466" xmltv_id="BABY TV">BABY TV</channel>
+    <channel update="i" site="lineup.net.br" site_id="807711" xmltv_id="BAND MINAS">BAND MINAS</channel>
+    <channel update="i" site="lineup.net.br" site_id="936130" xmltv_id="BAND NEWS">BAND NEWS</channel>
+    <channel update="i" site="lineup.net.br" site_id="286037" xmltv_id="BAND">BAND</channel>
+    <channel update="i" site="lineup.net.br" site_id="513338" xmltv_id="BAND SPORTS">BAND SPORTS</channel>
+    <channel update="i" site="lineup.net.br" site_id="983734" xmltv_id="BIS">BIS</channel>
+    <channel update="i" site="lineup.net.br" site_id="332466" xmltv_id="BLOOMBERG">BLOOMBERG</channel>
+    <channel update="i" site="lineup.net.br" site_id="683243" xmltv_id="CANAL BRASIL">CANAL BRASIL</channel>
+    <channel update="i" site="lineup.net.br" site_id="117143" xmltv_id="CANAL DO BOI">CANAL DO BOI</channel>
+    <channel update="i" site="lineup.net.br" site_id="786630" xmltv_id="CANAL RURAL">CANAL RURAL</channel>
+    <channel update="i" site="lineup.net.br" site_id="167601" xmltv_id="CANÇÃO NOVA">CANÇÃO NOVA</channel>
+  <!-- Adicione mais canais conforme necessário -->
+</settings>
