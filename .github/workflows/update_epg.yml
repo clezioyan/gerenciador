@@ -1,0 +1,35 @@
+name: Atualizar Lista EPG
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa diariamente à meia-noite UTC
+
+jobs:
+  atualizar-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v2
+
+      - name: Configurar Mono
+        run: sudo apt-get install -y mono-complete
+
+      - name: Instalar WebGrab+Plus
+        run: |
+          sudo apt-get install -y wine
+          wget http://www.webgrabplus.com/sites/default/files/download/SW/V3.2.0.0/WebGrabPlus_V3.2_install.exe
+          wine WebGrabPlus_V3.2_install.exe /S
+
+      - name: Executar WebGrab+Plus
+        run: wine WebGrab+Plus.exe /r
+
+      - name: Confirmar e Enviar Mudanças
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add guide.xml
+          git commit -m 'Atualizar Lista EPG'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
