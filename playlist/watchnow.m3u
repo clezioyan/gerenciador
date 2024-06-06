@@ -32,6 +32,8 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/484
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="https://image.gerenciador.ch/bandsports.png" group-title="Esportes",BAND SPORTS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/120
 
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/N07JnPV4/bbb.png" group-title="Variedades e Documentários",BBB
+
 #EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="https://i.postimg.cc/vBYqwtwd/bis.png" group-title="Variedades e Documentários",BIS
 https://mycdn.delivery/bis/tracks-v1a1/mono.m3u8
 
