@@ -20,7 +20,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/233
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.postimg.cc/L6wbgPLz/babytv.png" group-title="Infantil",BABY TV
 http://5ce.co:80/pamelaflores/92446060a/10872
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS" tvg-logo="https://imgur.com/WBoBqzF"group-title="Canais Abertos,BAND MINAS
+#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS" tvg-logo="https://i.postimg.cc/zfk1Csbr/bandminas.png"group-title="Canais Abertos,BAND MINAS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/481
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://i.postimg.cc/SR0VSnRm/bandnews.png" group-title="Notícias",BAND NEWS
@@ -152,10 +152,10 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/824
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://image.gerenciador.ch/discoverychannelhd.png" group-title="Variedades e Documentários",DISCOVERY CHANNEL
 https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://i.postimg.cc/GmPx3TQ3/discoveryhomeandhealth.png" group-title="Variedades e Documentários",DISCOVERY H&H
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://i.postimg.cc/k4XPfTKt/discoveryhomeandhealth.png" group-title="Variedades e Documentários",DISCOVERY H&H
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/67
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://image.gerenciador.ch/idinvestigacaodiscovery.png" group-title="Variedades e Documentários",DISCOVERY ID
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://i.postimg.cc/ZYpX6k1D/discoveryid.png" group-title="Variedades e Documentários",DISCOVERY ID
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/69
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.postimg.cc/W3yMYG28/discoverykids.png" group-title="Infantil",DISCOVERY KIDS
@@ -164,16 +164,16 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/348
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://image.gerenciador.ch/discoveryscience.png" group-title="Variedades e Documentários",DISCOVERY SCIENCE
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/71
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://image.gerenciador.ch/discoverytheaterhd.png" group-title="Variedades e Documentários",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.postimg.cc/vZHjR4Dp/discoverytheater.png" group-title="Variedades e Documentários",DISCOVERY THEATER
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/73
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.postimg.cc/ZY9gbjyT/discoveryturbo.png" group-title="Variedades e Documentários",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.postimg.cc/Kv5VsPcP/discoveryturbo.png" group-title="Variedades e Documentários",DISCOVERY TURBO
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/75
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://image.gerenciador.ch/discoveryworldhd.png" group-title="Variedades e Documentários",DISCOVERY WORLD
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/77
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://image.gerenciador.ch/disney.png" group-title="Infantil",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.postimg.cc/2S6HcgKY/disney.png" group-title="Infantil",DISNEY CHANNEL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/351
 
 #EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="https://i.postimg.cc/GmRSjCg2/dogtv.png" group-title="Documentários e Variedades", DOG TV
@@ -210,16 +210,16 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/878
 #EXTINF:-1 tvg-id="" tvg-name="FILM&ARTS" tvg-logo="https://i.postimg.cc/fbLCHTcw/filmsarts.png" group-title="Filmes e Séries",FILM&ARTS
 http://5ce.co:80/pamelaflores/92446060a/37755
 
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="https://image.gerenciador.ch/fishtv.png" group-title="Variedades e Documentários",FISH TV
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="https://i.postimg.cc/63NgmYZh/fishtv.png" group-title="Variedades e Documentários",FISH TV
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/79
 
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://image.gerenciador.ch/foodnetworkhd.png" group-title="Variedades e Documentários",FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://i.postimg.cc/FHyjxp9v/foodnetwork.png" group-title="Variedades e Documentários",FOOD NETWORK
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/104
 
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="https://i.postimg.cc/JnqQRp52/futura.png" group-title="Canais Abertos",FUTURA
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/243
 
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://image.gerenciador.ch/fx.png" group-title="Filmes e Séries",FX
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.postimg.cc/G3DJ2dZ9/fx.png" group-title="Filmes e Séries",FX
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/244
 
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="https://i.postimg.cc/13TFhLfQ/gazeta.png" group-title="Canais Abertos",GAZETA
@@ -232,6 +232,7 @@ https://cr7v.short.gy/manoiptvfree/REDEBA/Index.m3u8
 http://5ce.co:80/pamelaflores/92446060a/35756
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO FORTALEZA" tvg-logo="https://i.postimg.cc/SQ8r1PMz/globo.png" group-title="Canais Abertos",GLOBO FORTALEZA
+http://5ce.co:80/pamelaflores/92446060a/122175
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="https://i.postimg.cc/SQ8r1PMz/globo.png" group-title="Canais Abertos",GLOBO MINAS
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/32164
@@ -263,7 +264,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1265
 #EXTINF:-1 tvg-id="" tvg-name="GOAT TV 2" tvg-logo="https://i.postimg.cc/5yYLvXWr/canalgoat.png",GOAT TV 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1264
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.postimg.cc/TPpjVNx1/hbo.png" group-title="Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.postimg.cc/C5MFWF8J/hbo.png" group-title="Filmes e Séries",HBO
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/251
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/Qt7pPBHr/hbo2.png" group-title="Filmes e Séries",HBO 2
@@ -319,7 +320,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/834
 #EXTINF:-1 tvg-id"" tvg-name="MAX 4" tvg-logo="https://i.postimg.cc/rm5rjvPV/max.png" group-title="Esportes", MAX 4
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/835
 
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="https://i.postimg.cc/HW4My1M3/megapix.png" group-title="Filmes e Séries",MEGAPIX
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="https://i.postimg.cc/Fs7vcCVf/megapix.png" group-title="Filmes e Séries",MEGAPIX
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/270
 
 #EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM" tvg-logo="https://i.postimg.cc/MK9j90dQ/modoviagem.png" group-title="Variedades e Documentários",MODO VIAGEM
@@ -448,8 +449,10 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/113
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/534
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT ALTEROSA" tvg-logo="https://i.postimg.cc/g0BZs14d/sbtalterosa.png" group-title="Canais Abertos",SBT ALTEROSA
+http://5ce.co:80/pamelaflores/92446060a/41400
 
 #EXTINF:-1 tvg-id="" tvg-name="SHOPTIME" tvg-logo="https://i.postimg.cc/2jWZdcWR/shoptime.png" group-title="Canais Abertos",SHOPTIME
+http://5ce.co:80/pamelaflores/92446060a/38270
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://image.gerenciador.ch/canal_sony.png" group-title="Filmes e Séries",SONY CHANNEL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/238
@@ -476,6 +479,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/289
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimducQkR81Fd_z1W_LZUrwU_dViCgNLKIDCwh5ekNu-kE
 
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://i.postimg.cc/5yTWtRfz/tbs.png" group-title="Filmes e Séries",TBS
+http://5ce.co:80/pamelaflores/92446060a/42478
 
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://image.gerenciador.ch/tcm.png" group-title="Filmes e Séries",TCM
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimfODcM-k4DhTEixHz-0DioIitLeVAjlnTb9OMYr2vXMT
@@ -531,13 +535,13 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/542
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="https://i.postimg.cc/h4yP5VJF/tvbrasil.png" group-title="Canais Abertos",TV BRASIL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1100
 
-#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA" tvg-logo="https://i.postimg.cc/T31201sL/tvcamara.png" group-title="Canais Abertos",TV CÂMARA
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA" tvg-logo="https://i.postimg.cc/kGB9mh20/tvcamara.png" group-title="Canais Abertos",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="https://image.gerenciador.ch/tv_cultura.png"group-title="Canais Abertos", TV CULTURA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="", TV DIARIO 
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="https://i.postimg.cc/xCRTdkyL/tvdiario.png", TV DIARIO 
 http://5ce.co:80/pamelaflores/92446060a/36317
 
 #EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA" tvg-logo="https://i.postimg.cc/2S3WtzjG/tvescola.png" group-title="Canais Abertos",TV ESCOLA
