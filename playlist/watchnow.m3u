@@ -20,7 +20,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/233
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.postimg.cc/L6wbgPLz/babytv.png" group-title="Infantil",BABY TV
 http://5ce.co:80/pamelaflores/92446060a/10872
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS" tvg-logo="https://imgur.com/HlHPn1s"group-title="Canais Abertos,BAND MINAS
+#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS" tvg-logo="https://i.postimg.cc/zfk1Csbr/bandminas.png"group-title="Canais Abertos,BAND MINAS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/481
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://i.postimg.cc/SR0VSnRm/bandnews.png" group-title="Notícias",BAND NEWS
@@ -130,9 +130,6 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/122
 
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.postimg.cc/Y0Jz01Z0/comedycentral.png" group-title="Variedades e Documentários",COMEDY CENTRAL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/99
-
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="https://i.postimg.cc/kGB9mh20/tvcamara.png" group-title="Canais Abertos",CULTURA
-http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimfHPG3ltme2gr5BMZOLn1vyYmt5ga605SN8fuHUapfqO
 
 #EXTINF:-1 tvg-id="" tvg-name="CURTA!" tvg-logo="https://i.postimg.cc/4xR1TQpF/curta.png" group-title="Variedades e Documentários",CURTA!
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/100
@@ -538,7 +535,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1100
 #EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA" tvg-logo="https://i.postimg.cc/kGB9mh20/tvcamara.png" group-title="Canais Abertos",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="https://image.gerenciador.ch/tv_cultura.png"group-title="Canais Abertos", TV CULTURA
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="https://i.postimg.cc/sXnybRgP/cultura.png"group-title="Canais Abertos", TV CULTURA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 
 #EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="https://i.postimg.cc/xCRTdkyL/tvdiario.png", TV DIARIO 
