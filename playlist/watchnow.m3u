@@ -11,6 +11,9 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/228
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/brFFTDMf/animalplanet.png" group-title="Variedades e Documentários",ANIMAL PLANET
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/61
 
+#EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://i.imgur.com/fuuv2uP.jpg" group-title="Brazil",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ARTE1" tvg-logo="https://i.postimg.cc/V690tv4f/arte1.png" group-title="Variedades e Documentários",ARTE1
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/231
 
