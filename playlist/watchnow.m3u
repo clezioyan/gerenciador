@@ -5,6 +5,9 @@ https://watch.vcdn.in/aee/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/hjsYX31j/agromais.png" group-title="Notícias",AGRO+ 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/852
 
+#EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.postimg.cc/PfpgXjPV/allsportsbrasil.png" group-title="Esportes",ALL Sports Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.postimg.cc/TwvWhgVN/amc.png" group-title="Filmes e Séries",AMC 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/228
 
@@ -52,7 +55,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/486
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://image.gerenciador.ch/canalrural.png" group-title="Canais Abertos",CANAL RURAL
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimRERKtwSrVDOxRoVHsX-X3o
 
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.postimg.cc/28bHY5M3/cancaonova.png" group-title="Canais Abertos",CANÇÃO NOVA
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.postimg.cc/V6LzGHgQ/cancaonova.png" group-title="Canais Abertos",CANÇÃO NOVA
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/97
 
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/tCKB4jGk/cartoonito.png" group-title="Infantil",CARTOONITO (Instável)
@@ -64,7 +67,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/344
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1zqRhCjn/cbn.png" group-title="Notícias",CBN
 http://5ce.co:80/pamelaflores/92446060a/217235
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/T2HkBbkZ/cartoonnetwork.png" group-title="Infantil",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/FKx9xQjV/cartoonnetwork.png" group-title="Infantil",CARTOON NETWORK
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/346
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.imgur.com/r5QmPz0.png" group-title="Esportes",CAZE TV
@@ -310,16 +313,16 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/269
 
 #EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="https://i.postimg.cc/7hDTWmFg/like.png" group-title="Variedades e Documentários",LIKE
 
-#EXTINF:-1 tvg-id"" tvg-name="MAX 1" tvg-logo="https://i.postimg.cc/rm5rjvPV/max.png" group-title="Esportes", MAX 1
+#EXTINF:-1 tvg-id"" tvg-name="MAX 1" tvg-logo="https://i.postimg.cc/rFpt0f2H/max.png" group-title="Esportes", MAX 1
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/832
 
-#EXTINF:-1 tvg-id"" tvg-name="MAX 2" tvg-logo="https://i.postimg.cc/rm5rjvPV/max.png" group-title="Esportes", MAX 2
+#EXTINF:-1 tvg-id"" tvg-name="MAX 2" tvg-logo="https://i.postimg.cc/rFpt0f2H/max.png" group-title="Esportes", MAX 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/833
 
-#EXTINF:-1 tvg-id"" tvg-name="MAX 3" tvg-logo="https://i.postimg.cc/rm5rjvPV/max.png" group-title="Esportes", MAX 3
+#EXTINF:-1 tvg-id"" tvg-name="MAX 3" tvg-logo="https://i.postimg.cc/rFpt0f2H/max.png" group-title="Esportes", MAX 3
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/834
 
-#EXTINF:-1 tvg-id"" tvg-name="MAX 4" tvg-logo="https://i.postimg.cc/rm5rjvPV/max.png" group-title="Esportes", MAX 4
+#EXTINF:-1 tvg-id"" tvg-name="MAX 4" tvg-logo="https://i.postimg.cc/rFpt0f2H/max.png" group-title="Esportes", MAX 4
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/835
 
 #EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="https://i.postimg.cc/Fs7vcCVf/megapix.png" group-title="Filmes e Séries",MEGAPIX
@@ -477,13 +480,13 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/281
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://image.gerenciador.ch/studiouniversal.png" group-title="Filmes e Séries",STUDIO UNIVERSAL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/289
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://image.gerenciador.ch/syfy.png" group-title="Filmes e Séries",SYFY
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://i.postimg.cc/0NGNHSqm/syfy.png" group-title="Filmes e Séries",SYFY
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimducQkR81Fd_z1W_LZUrwU_dViCgNLKIDCwh5ekNu-kE
 
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://i.postimg.cc/5yTWtRfz/tbs.png" group-title="Filmes e Séries",TBS
 http://5ce.co:80/pamelaflores/92446060a/42478
 
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://image.gerenciador.ch/tcm.png" group-title="Filmes e Séries",TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.postimg.cc/mDRPbwS8/tcm.png" group-title="Filmes e Séries",TCM
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimfODcM-k4DhTEixHz-0DioIitLeVAjlnTb9OMYr2vXMT
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo="https://i.postimg.cc/h45BMfVG/telecineaction.png" group-title="Filmes e Séries",TELECINE ACTION
