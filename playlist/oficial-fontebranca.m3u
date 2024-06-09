@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.postimg.cc/yd3vCmVf/aande.png" group-title="Filmes e Séries",A&E
 https://watch.vcdn.in/aee/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="https://i.postimg.cc/tChFvvDJ/agrobrasiltv.png" group-title="Notícias",AGRO BRASIL
+
 #EXTINF:-1 tvg-id="" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/hjsYX31j/agromais.png" group-title="Notícias",AGRO+ 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/852
 
@@ -32,11 +34,11 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/481
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://i.postimg.cc/SR0VSnRm/bandnews.png" group-title="Notícias",BAND NEWS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/482
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP" tvg-logo="https://i.postimg.cc/W1F8rNcx/band.png" group-title="Canais Abertos",BAND SP
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/484
-
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="https://image.gerenciador.ch/bandsports.png" group-title="Esportes",BAND SPORTS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/120
+
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP" tvg-logo="https://i.postimg.cc/W1F8rNcx/band.png" group-title="Canais Abertos",BAND SP
+http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/484
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/N07JnPV4/bbb.png" group-title="Variedades e Documentários",BBB
 
@@ -60,14 +62,8 @@ http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimRERKtwSrVDOxRoVHsX-X3o
 #EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.postimg.cc/V6LzGHgQ/cancaonova.png" group-title="Canais Abertos",CANÇÃO NOVA
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/97
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/tCKB4jGk/cartoonito.png" group-title="Infantil",CARTOONITO (Instável)
-https://mycdn.delivery/cartoonito/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/tCKB4jGk/cartoonito.png" group-title="Infantil",CARTOONITO (Alterar)
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/tCKB4jGk/cartoonito.png" group-title="Infantil",CARTOONITO
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/344
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1zqRhCjn/cbn.png" group-title="Notícias",CBN
-http://5ce.co:80/pamelaflores/92446060a/217235
 
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/FKx9xQjV/cartoonnetwork.png" group-title="Infantil",CARTOON NETWORK
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/346
@@ -77,6 +73,9 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1145
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2" tvg-logo="https://i.imgur.com/r5QmPz0.png" group-title="Esportes",CAZE TV 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1266
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1zqRhCjn/cbn.png" group-title="Notícias",CBN SP
+http://5ce.co:80/pamelaflores/92446060a/217235
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE CANAL" tvg-logo="https://i.postimg.cc/CKYJbs1f/cinecanal.png" group-title="Filmes e Séries",CINE CANAL
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimYSu4umE_UZCwoxMc9bGZMA
@@ -128,9 +127,6 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/812
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15" tvg-logo="https://i.postimg.cc/8PbsC04q/cinesky.png" group-title="Filmes e Séries", CINE SKY 15 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/813
-
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="https://i.postimg.cc/rFfWgdTz/cnnbrasil.png" group-title="Notícias",CNN BRASIL (Instável)
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/6a9edbefc23e452d8933c7fde4c83cde/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="https://i.postimg.cc/rFfWgdTz/cnnbrasil.png" group-title="Notícias",CNN BRASIL (Alterar)
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/433
@@ -350,11 +346,11 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/424
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://image.gerenciador.ch/natgeohd.png" group-title="Variedades e Documentários",NATIONAL GEOGRAPHIC 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/87
 
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.postimg.cc/0jFv2dmb/nickjr.png" group-title="Infantil",NICK JR
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/363
-
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://i.postimg.cc/VL01ZpQM/nickelodeon.png" group-title="Infantil",NICKELODEON
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/365
+
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.postimg.cc/0jFv2dmb/nickjr.png" group-title="Infantil",NICK JR
+http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/363
 
 #EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="https://i.postimg.cc/sfcB29FN/off.png" group-title="Variedades e Documentários",OFF
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/273
@@ -434,11 +430,11 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1149
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 8" tvg-logo="https://image.gerenciador.ch/star.png" group-title="Esportes" ,STAR+ 8 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1150
 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="https://i.postimg.cc/C58kzJG0/record.png" group-title="Canais Abertos",RECORD SP
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/999
-
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="https://i.postimg.cc/dVMFb6wf/recordnews.png" group-title="Notícias",RECORD NEWS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/451
+
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="https://i.postimg.cc/C58kzJG0/record.png" group-title="Canais Abertos",RECORD SP
+http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/999
 
 #EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/nV9vRV6W/redebrasil.png" group-title="Canais Abertos",REDE BRASIL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/531
