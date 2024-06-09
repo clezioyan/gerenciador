@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.postimg.cc/PJSdYG8F/aande.webp" group-title="Filmes e Séries",A&E
-https://watch.vcdn.in/aee/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.postimg.cc/PJSdYG8F/aande.webp" group-title="Filmes e Séries",A&E (servidor 2)
 https://mycdn.delivery/aee/tracks-v1a1/mono.m3u8
 
@@ -36,7 +33,7 @@ https://mycdn.delivery/band/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="https://i.postimg.cc/NMYtnG6z/band.png" group-title="Esportes",BAND SPORTS
 
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="https://i.postimg.cc/NMYtnG6z/band.png" group-title="Variedades e Documentários",BIS
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="https://i.postimg.cc/Vvk8Y7H9/bis.png" group-title="Variedades e Documentários",BIS
 https://mycdn.delivery/bis/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="" group-title="Notícias",BLOOMBERG
@@ -51,7 +48,6 @@ https://mycdn.delivery/canalbrasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="" group-title="Canais Abertos",CANAL RURAL
 
 #EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="" group-title="Canais Abertos",CANÇÃO NOVA
-https://mycdn.delivery/tvcancaonova/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/ZqPt6kGF/cartoonnetwork.webp" group-title="Infantil",CARTOON NETWORK
 https://mycdn.delivery/cartoonnetwork/tracks-v1a1/mono.m3u8
@@ -146,11 +142,10 @@ https://mycdn.delivery/fx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="https://i.postimg.cc/Px4C3Rw1/tvgazeta.png" group-title="Canais Abertos",GAZETA
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA" tvg-logo="https://i.postimg.cc/SQ8r1PMz/globo.png" group-title="Canais Abertos",GLOBO BAHIA
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA" tvg-logo="https://i.postimg.cc/d1XbYqrF/globo.png" group-title="Canais Abertos",GLOBO BAHIA
 https://cr7v.short.gy/manoiptvfree/REDEBA/Index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO CURITIBA" tvg-logo="" group-title="Canais Abertos",GLOBO CURITIBA
-https://mycdn.delivery/globoparana/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO FORTALEZA" tvg-logo="" group-title="Canais Abertos",GLOBO FORTALEZA
 
@@ -168,7 +163,7 @@ https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="https://i.postimg.cc/3RWsVyy9/gloob.png" group-title="Infantil",GLOOB
 https://mycdn.delivery/gloob/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="https://i.postimg.cc/3RWsVyy9/gloob.png" group-title="Infantil",GLOOBINHO
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="https://i.postimg.cc/d0WM5R0L/gloobinho.png" group-title="Infantil",GLOOBINHO
 https://mycdn.delivery/gloobinho/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://i.postimg.cc/brtKYK9t/gnt.png" group-title="Variedades e Documentários",GNT
@@ -292,7 +287,7 @@ https://mycdn.delivery/primeboxbrazil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="" group-title="Canais Abertos",REDE VIDA
 
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://i.postimg.cc/vZWybnmZ/sbt.png" group-title="Canais Abertos",SBT
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://i.postimg.cc/9FcpQ6bH/sbt.png" group-title="Canais Abertos",SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT ALTEROSA" tvg-logo="" group-title="Canais Abertos",SBT ALTEROSA
