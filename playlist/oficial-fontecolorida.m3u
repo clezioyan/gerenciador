@@ -330,7 +330,7 @@ https://mycdn.delivery/telecinefun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.postimg.cc/Sx3CC36s/telecinepipoca.png" group-title="Filmes e Séries",TELECINE PIPOCA
 https://mycdn.delivery/telecinepipoca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/Sx3CC36s/telecinepipoca.png" group-title="Filmes e Séries",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/xdmHR55P/telecinepremium.png" group-title="Filmes e Séries",TELECINE PREMIUM
 https://mycdn.delivery/telecinepremium/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH" tvg-logo="https://i.postimg.cc/hjbmFGHz/telecinetouch.png" group-title="Filmes e Séries",TELECINE TOUCH
@@ -377,7 +377,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 #EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="" group-title="Canais Abertos",TV NOVO TEMPO
 
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="" group-title="Canais Abertos",TV SENADO
-https://mycdn.delivery/tv_senado/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="" group-title="Filmes e Séries",UNIVERSAL CHANNEL
 
