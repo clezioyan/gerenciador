@@ -665,8 +665,8 @@ https://mycdn.delivery/woohoo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="https://i.postimg.cc/bNhHmxxz/zoomoo.png" group-title="Infantil",ZOOMOO
 https://mycdn.delivery/zoomoo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Coringa" tvg-logo="" group-title="MAX @ FILMES",Coringa
-https://youtu.be/KUlIaSTYbuo?si=p_aXXZMOfVITUB1z
+
+###################################################           FILMES
 
 #EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: A Origem" tvg-logo="https://i.postimg.cc/L874sbbV/planetasdosmacacosa2011aorigem.jpg" group-title="DISNEY @ FILMES",Planeta dos Macacos: A Origem
 https://hugh.cdn.rumble.cloud/video/s8/2/v/1/h/8/v1h8r.caa.mp4
