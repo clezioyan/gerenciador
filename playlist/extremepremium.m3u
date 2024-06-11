@@ -3,8 +3,9 @@
 https://mycdn.delivery/aee/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="https://i.postimg.cc/8P9MfLZd/agrobrasiltv.png" group-title="Notícias",AGRO BRASIL
+http://7go.xyz:8080/2023LineP2fyoX5N6tju7LKqN1Q54lV0cusJ/2023L0D9HrBH9xIL9C69KAvOsJ5KIg6kTTdW2023/25676
 
-#EXTINF:-1 tvg-id="" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/q7zNg0Rg/agromais.png" group-title="Notícias",AGRO+ 
+#EXTINF:-1 tvg-id="" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/7ZLRCQyf/agromais.png" group-title="Notícias",AGRO+ 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/852
 
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.postimg.cc/Nf5R0dkf/allsportsbrasil.png" group-title="Esportes",ALL Sports Brasil
@@ -40,7 +41,38 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/120
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP" tvg-logo="https://i.postimg.cc/8c3JWVmk/bandeirantes.png" group-title="Canais Abertos",BAND SP
 https://mycdn.delivery/band/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM01
+http://pfsv.io:80/leticia/131278/186258.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM02
+http://pfsv.io:80/leticia/131278/186257.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM03
+http://pfsv.io:80/leticia/131278/186256.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM04
+http://pfsv.io:80/leticia/131278/186255.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM05
+http://pfsv.io:80/leticia/131278/186254.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM06
+http://pfsv.io:80/leticia/131278/186253.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM07
+http://pfsv.io:80/leticia/131278/186252.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM08
+http://pfsv.io:80/leticia/131278/186251.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM09
+http://pfsv.io:80/leticia/131278/186250.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM10
+http://pfsv.io:80/leticia/131278/186249.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB CAM11
+http://pfsv.io:80/leticia/131278/186248.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="https://i.postimg.cc/nVwq1dyy/bis.png" group-title="Variedades e Documentários",BIS
 https://mycdn.delivery/bis/tracks-v1a1/mono.m3u8
