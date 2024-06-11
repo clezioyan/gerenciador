@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.postimg.cc/bwYDc1fx/a-e.png" group-title="Filmes e Séries",A&E
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/bwYDc1fx/a-e.png" group-title="Filmes e Séries",A&E
 https://mycdn.delivery/aee/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="https://i.postimg.cc/8P9MfLZd/agrobrasiltv.png" group-title="Notícias",AGRO BRASIL
@@ -11,10 +11,10 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/852
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.postimg.cc/Nf5R0dkf/allsportsbrasil.png" group-title="Esportes",ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.postimg.cc/hGqmpcWf/amc.png" group-title="Filmes e Séries",AMC 
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://i.postimg.cc/hGqmpcWf/amc.png" group-title="Filmes e Séries",AMC 
 https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/5tqCrTbp/animalplanet.png" group-title="Variedades e Documentários",ANIMAL PLANET
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/5tqCrTbp/animalplanet.png" group-title="Variedades e Documentários",ANIMAL PLANET
 https://mycdn.delivery/animalplanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://i.postimg.cc/bNRc06qx/animetv.png" group-title="Infantil",Anime TV
@@ -23,7 +23,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARTE1" tvg-logo="https://i.postimg.cc/DZvX36zh/arte1.png" group-title="Variedades e Documentários",ARTE1
 https://mycdn.delivery/arte1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.postimg.cc/QtfW87BT/axn.png" group-title="Filmes e Séries",AXN
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://i.postimg.cc/QtfW87BT/axn.png" group-title="Filmes e Séries",AXN
 https://mycdn.delivery/axn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.postimg.cc/fTGXGVT5/babytv.png" group-title="Infantil",BABY TV
@@ -81,7 +81,7 @@ https://mycdn.delivery/bis/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://i.postimg.cc/kMxB2TnN/boomerang.png" group-title="Notícias",BOOMERANG
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="https://i.postimg.cc/zf5LT7Kh/canalbrasil.png" group-title="Filmes e Séries",CANAL BRASIL
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://i.postimg.cc/zf5LT7Kh/canalbrasil.png" group-title="Filmes e Séries",CANAL BRASIL
 https://mycdn.delivery/canalbrasil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="https://i.postimg.cc/wvj7GBWT/canaldoboi.png" group-title="Variedades e Documentários",CANAL DO BOI
@@ -120,7 +120,7 @@ http://5ce.co:80/pamelaflores/92446060a/217235
 #EXTINF:-1 tvg-id="" tvg-name="CINE CANAL" tvg-logo="https://i.postimg.cc/CLDLSbTZ/cinecanal.png" group-title="Filmes e Séries",CINE CANAL
 https://mycdn.delivery/cinecanal/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Filmes e Séries",CINEMAX
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Filmes e Séries",CINEMAX
 https://mycdn.delivery/cinemax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Filmes e Séries", CINE SKY 1 
@@ -277,7 +277,7 @@ https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="https://i.postimg.cc/BZxnBHZc/futura.png" group-title="Canais Abertos",FUTURA
 https://tv.unisc.br/hls/test.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.postimg.cc/3NCrr5fb/fx.png" group-title="Filmes e Séries",FX
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://i.postimg.cc/3NCrr5fb/fx.png" group-title="Filmes e Séries",FX
 https://mycdn.delivery/fx/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="https://i.postimg.cc/NfBfJF5h/gazeta.png" group-title="Canais Abertos",GAZETA
@@ -316,31 +316,31 @@ https://mycdn.delivery/gloobinho/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://i.postimg.cc/N03Q1fWz/gnt.png" group-title="Variedades e Documentários",GNT
 https://mycdn.delivery/gnt/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.postimg.cc/SsckVb4N/hbo.png" group-title="Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://i.postimg.cc/SsckVb4N/hbo.png" group-title="Filmes e Séries",HBO
 https://mycdn.delivery/hbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/mkRR5pZ3/hbo2.png" group-title="Filmes e Séries",HBO 2
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/mkRR5pZ3/hbo2.png" group-title="Filmes e Séries",HBO 2
 https://mycdn.delivery/hbo2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.postimg.cc/Y2ftW78d/hbofamily.png" group-title="Filmes e Séries",HBO FAMILY
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="https://i.postimg.cc/Y2ftW78d/hbofamily.png" group-title="Filmes e Séries",HBO FAMILY
 https://mycdn.delivery/hbofamily/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://i.postimg.cc/KjNFS746/hbomundi.png" group-title="Filmes e Séries",HBO MUNDI
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI" tvg-logo="https://i.postimg.cc/KjNFS746/hbomundi.png" group-title="Filmes e Séries",HBO MUNDI
 https://mycdn.delivery/hbomundi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="Filmes e Séries",HBO+
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="Filmes e Séries",HBO+
 https://mycdn.delivery/hboplus/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://i.postimg.cc/xT6Y6PwH/hbopop.png" group-title="Filmes e Séries",HBO POP
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP" tvg-logo="https://i.postimg.cc/xT6Y6PwH/hbopop.png" group-title="Filmes e Séries",HBO POP
 https://mycdn.delivery/hbopop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/K84bwMbW/hbosignature.png" group-title="Filmes e Séries",HBO SIGNATURE
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/K84bwMbW/hbosignature.png" group-title="Filmes e Séries",HBO SIGNATURE
 https://mycdn.delivery/hbosignature/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://i.postimg.cc/tgxjCGYt/hboxtreme.png" group-title="Filmes e Séries",HBO XTREME
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME" tvg-logo="https://i.postimg.cc/tgxjCGYt/hboxtreme.png" group-title="Filmes e Séries",HBO XTREME
 https://mycdn.delivery/hboxtreme/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/W1KVv1b1/hgtv.png" group-title="Variedades e Documentários",HGTV 
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/W1KVv1b1/hgtv.png" group-title="Variedades e Documentários",HGTV 
 https://mycdn.delivery/hgtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.postimg.cc/C1CpkCCR/historychannel.png" group-title="Variedades e Documentários",HISTORY CHANNEL
@@ -372,7 +372,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/834
 #EXTINF:-1 tvg-id"" tvg-name="MAX 4" tvg-logo="https://i.postimg.cc/cLKqXGMy/max.png" group-title="Esportes", MAX 4
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/835
 
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="https://i.postimg.cc/jd7n4RQf/megapix.png" group-title="Filmes e Séries",MEGAPIX
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://i.postimg.cc/jd7n4RQf/megapix.png" group-title="Filmes e Séries",MEGAPIX
 https://mycdn.delivery/megapix/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM" tvg-logo="https://i.postimg.cc/5tvhW5Rs/modoviagem.png" group-title="Variedades e Documentários",MODO VIAGEM
@@ -393,7 +393,7 @@ https://mycdn.delivery/multishow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://i.postimg.cc/25zqYhpd/musicboxbrazil.png" group-title="Variedades e Documentários",MUSIC BOX BRAZIL
 https://mycdn.delivery/musicboxbrasil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/g0Nx2jdC/nationalgeographic.png" group-title="Variedades e Documentários",NATIONAL GEOGRAPHIC 
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/g0Nx2jdC/nationalgeographic.png" group-title="Variedades e Documentários",NATIONAL GEOGRAPHIC 
 https://mycdn.delivery/nationalgeographic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://i.postimg.cc/NMF59tj5/nickelodeon.png" group-title="Infantil",NICKELODEON
@@ -405,7 +405,7 @@ https://mycdn.delivery/nickjr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL" tvg-logo="https://i.postimg.cc/K83Vtrxm/nossofutebol.png" group-title="Esportes",NOSSO FUTEBOL
 https://sportscdn.net/live/nossofutebol_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.postimg.cc/YS1ssrvV/paramount.png" group-title="Filmes e Séries",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.postimg.cc/YS1ssrvV/paramount.png" group-title="Filmes e Séries",PARAMOUNT CHANNEL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/275
 
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1" tvg-logo="https://i.postimg.cc/cH7hkQNp/paramountplus1.png" group-title="Esportes", PARAMOUNT+ 1 
@@ -495,7 +495,7 @@ http://5ce.co:80/pamelaflores/92446060a/41400
 #EXTINF:-1 tvg-id="" tvg-name="SHOPTIME" tvg-logo="https://i.postimg.cc/yNYFPwNz/shoptime.png" group-title="Canais Abertos",SHOPTIME
 http://5ce.co:80/pamelaflores/92446060a/38270
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://i.postimg.cc/zB4KqvFJ/sonychannel.png" group-title="Filmes e Séries",SONY CHANNEL
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://i.postimg.cc/zB4KqvFJ/sonychannel.png" group-title="Filmes e Séries",SONY CHANNEL
 https://mycdn.delivery/sonychannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="https://i.postimg.cc/MTLnJG8z/sonymovies.webp" group-title="Filmes e Séries",SONY MOVIES
