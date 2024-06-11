@@ -222,7 +222,7 @@ https://mycdn.delivery/discoveryworld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.postimg.cc/J0JDb26b/disneychannel.png" group-title="Infantil",DISNEY CHANNEL
 https://mycdn.delivery/disneychannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="https://i.postimg.cc/kgP6jLfp/dogtv.png" group-title="Variedades e Documentarios", DOG TV
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="https://i.postimg.cc/kgP6jLfp/dogtv.png" group-title="Variedades e Documentários", DOG TV
 http://5ce.co:80/pamelaflores/92446060a/98441
 
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.postimg.cc/RV5nMvhG/dw.png" group-title="Infantil" group-title="Notícias", DW
