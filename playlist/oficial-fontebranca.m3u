@@ -68,19 +68,19 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/273
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://i.postimg.cc/kGkGGv7B/canalrural.png" group-title="Canais Abertos",CANAL RURAL
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimRERKtwSrVDOxRoVHsX-X3o
 
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.postimg.cc/kGkGGv7B/canalrural.png" group-title="Canais Abertos",CANÇÃO NOVA
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.postimg.cc/NGD5Z6tQ/cancaonova.png" group-title="Canais Abertos",CANÇÃO NOVA
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/97
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="" group-title="Infantil",CARTOONITO
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/xCY14CFk/cartoonito.png" group-title="Infantil",CARTOONITO
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/344
 
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/02wr3FCm/cartoonnetwork.png" group-title="Infantil",CARTOON NETWORK
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/346
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="" group-title="Esportes",CAZE TV
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.postimg.cc/V6RkQ83K/cazetv.png" group-title="Esportes",CAZE TV
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1145 
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2" tvg-logo="" group-title="Esportes",CAZE TV 2
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.postimg.cc/V6RkQ83K/cazetv.png" group-title="Esportes",CAZE TV 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1266
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cLG6NhDz/cbn.png" group-title="Notícias",CBN SP
@@ -137,7 +137,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/812
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Filmes e Séries", CINE SKY 15 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/813
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="https://i.postimg.cc/W3z17H3d/cnnbrasil.png" group-title="Notícias",CNN BRASIL (Alterar)
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="https://i.postimg.cc/W3z17H3d/cnnbrasil.png" group-title="Notícias",CNN BRASIL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/433
 
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="https://i.postimg.cc/rmHFZN0Q/combate.png" group-title="Esportes",COMBATE
@@ -313,7 +313,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/816
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.postimg.cc/C1CpkCCR/historychannel.png" group-title="Variedades e Documentários",HISTORY CHANNEL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/83
 
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://i.postimg.cc/RFxzWptr/history2.png" group-title="Variedades e Documentários",H2
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://i.postimg.cc/RFxzWptr/history2.png" group-title="Variedades e Documentários",History 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/815
 
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://i.postimg.cc/fywnK35B/istv.png" group-title="Filmes e Séries",ISTV
@@ -503,7 +503,7 @@ http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimducQkR81Fd_z1W_LZUrwU_dViCgNLKI
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://i.postimg.cc/JzC3dbjr/tbs.png" group-title="Filmes e Séries",TBS
 http://5ce.co:80/pamelaflores/92446060a/42478
 
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="Filmes e Séries",TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.postimg.cc/j5QLxNJQ/tcm.png" group-title="Filmes e Séries",TCM
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimfODcM-k4DhTEixHz-0DioIitLeVAjlnTb9OMYr2vXMT
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo="https://i.postimg.cc/hGSLKcCN/telecineaction.png" group-title="Filmes e Séries",TELECINE ACTION
@@ -527,7 +527,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/309
 #EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="https://i.postimg.cc/s1dWqrQ6/terraviva.png" group-title="Canais Abertos",TERRA VIVA
 http://5ce.co:80/pamelaflores/92446060a/100493
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Variedades e Documentários",TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.postimg.cc/GhMTTkgX/tlc.png" group-title="Variedades e Documentários",TLC
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/91
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.postimg.cc/1RgYkrVw/tnt.png" group-title="Filmes e Séries",TNT
@@ -544,7 +544,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/314
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://i.postimg.cc/t4bSV0SN/tooncast.png" group-title="Infantil",TOONCAST
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimQuu4iHx1WNvc6JgJbEuYRbz5wLhsfrNjNfcvaJt224l
 
-#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA" tvg-logo="" group-title="Variedades e Documentários",TRACE BRAZUCA
+#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA" tvg-logo="https://i.postimg.cc/BQZ1vhp8/tracebrazuca.png" group-title="Variedades e Documentários",TRACE BRAZUCA
 http://5ce.co:80/pamelaflores/92446060a/113598
 
 #EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://i.postimg.cc/BnChThR9/travelboxbrazil.png" group-title="Variedades e Documentários",TRAVEL BOX BRAZIL
@@ -553,7 +553,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/848
 #EXTINF:-1 tvg-id="" tvg-name="TRUTV" tvg-logo="https://i.postimg.cc/0NWc3z8V/trutv.png" group-title="Variedades e Documentários",TRUTV
 http://5ce.co:80/pamelaflores/92446060a/28633
 
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="" group-title="Canais Abertos", TV APARECIDA 
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="https://i.postimg.cc/v8tVbRrF/tvaparecida.png" group-title="Canais Abertos", TV APARECIDA 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/542
 
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="https://i.postimg.cc/0NWc3z8V/trutv.png" group-title="Canais Abertos",TV BRASIL
