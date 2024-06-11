@@ -78,7 +78,6 @@ http://pfsv.io:80/leticia/131278/186248.ts
 https://mycdn.delivery/bis/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://i.postimg.cc/SRX25hBw/bloomberg.png" group-title="Notícias",BLOOMBERG
-http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimaQVDVOU6h3H46ZbMW5KoFQ
 
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://i.postimg.cc/kMxB2TnN/boomerang.png" group-title="Notícias",BOOMERANG
 
@@ -629,7 +628,8 @@ https://mycdn.delivery/woohoo/tracks-v1a1/mono.m3u8
 https://mycdn.delivery/zoomoo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla e Kong: O Novo Império" tvg-logo="https://i.postimg.cc/sgcQtwxJ/godzillavskong-onovoimperio.webp" group-title="MAX @ FILMES",Godzilla e Kong: O Novo Império
-https://s-delivery51.mxcontent.net/v/45c6817cd35a78507ce7cdc657188b1c.mp4?s=5TjY8lSXFsg7Pi-qjlv02A&e=1717969700&_t=1717949115
 
 #EXTINF:-1 tvg-id="" tvg-name="ATLAS" tvg-logo="https://i.postimg.cc/tRwcLGM9/atlas.webp" group-title="NETFLIX @ FILMES",ATLAS
-https://s-delivery43.mxcontent.net/v/9c14520ee0b68a0fb270e3aaa15896c5.mp4?s=jQk6Kp5ELJW3EtnMLRcGmQ&e=1717974168&_t=1717955502
+
+#EXTINF:-1 tvg-id="" tvg-name="UMA PARTE DE VOCÊ" tvg-logo="https://i.postimg.cc/zvP13LGc/umapartedevoce.webp" group-title="NETFLIX @ FILMES",UMA PARTE DE VOCÊ
+https://workerproxy.warezcdn.workers.dev/?url=https://cloclo51.cloud.mail.ru/weblink/view/Naxw/Koe8HRNxF
