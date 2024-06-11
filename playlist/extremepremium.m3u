@@ -230,15 +230,19 @@ http://5ce.co:80/pamelaflores/92446060a/98441
 #EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/L6tg5GZS/e.png" group-title="Variedades e Documentários",E! Entertainment
 https://mycdn.delivery/e/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2" tvg-logo="https://i.postimg.cc/P5dpwKmw/eleven2.png" group-title="Esportes",ELEVEN 2
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN" tvg-logo="" group-title="Esportes",ELEVEN
+https://sportscdn.net/live/03d9uzqsw4f4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 3" tvg-logo="https://i.postimg.cc/g24wqRDB/eleven3.png" group-title="Esportes",ELEVEN 3
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2" tvg-logo="https://sportscdn.net/live/r8ae459o07rh.m3u8" group-title="Esportes",ELEVEN 2
 
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 4" tvg-logo="https://i.postimg.cc/N0MKNMCG/eleven4.png" group-title="Esportes",ELEVEN 4
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 3" tvg-logo="https://sportscdn.net/live/5c68ho92tgui.m3u8" group-title="Esportes",ELEVEN 3
 
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 5" tvg-logo="https://i.postimg.cc/V60d8hc3/eleven5.png" group-title="Esportes",ELEVEN 5
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 4" tvg-logo="https://sportscdn.net/live/7yb73xk1gtli.m3u8" group-title="Esportes",ELEVEN 4
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 5" tvg-logo="https://sportscdn.net/live/2wn54v8t3j6p.m3u8" group-title="Esportes",ELEVEN 5
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 6" tvg-logo="https://i.postimg.cc/k5pBLmLQ/eleven6.png" group-title="Esportes",ELEVEN 6
+https://sportscdn.net/live/wzi9wivs75ki.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/HnGjstYj/espn.png" group-title="Esportes",ESPN
 https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
@@ -396,6 +400,7 @@ https://mycdn.delivery/nick/tracks-v1a1/mono.m3u8
 https://mycdn.delivery/nickjr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL" tvg-logo="https://i.postimg.cc/K83Vtrxm/nossofutebol.png" group-title="Esportes",NOSSO FUTEBOL
+https://sportscdn.net/live/zt1lnp3z499n.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.postimg.cc/YS1ssrvV/paramount.png" group-title="Filmes e Séries",PARAMOUNT CHANNEL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/275
@@ -411,6 +416,12 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1153
 
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4" tvg-logo="https://i.postimg.cc/nLD07ySc/paramountplus4.png" group-title="Esportes", PARAMOUNT+ 4
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1154
+
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4" tvg-logo="https://i.postimg.cc/nLD07ySc/paramountplus4.png" group-title="Esportes", PARAMOUNT+ 4 SERVER 2
+https://sportscdn.net/live/9wqf75vj16vu.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4" tvg-logo="https://i.postimg.cc/nLD07ySc/paramountplus4.png" group-title="Esportes", PARAMOUNT+ 4 SERVER 3
+https://sportscdn.net/live/paramountplus4_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="https://i.postimg.cc/8zGdFFQc/polishop.png" group-title="Variedades e Documentários",POLISHOP
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimQTEWOlMoL5qvi2k_ILa-VsTPFSdrWtPi1WJe2U_Limo
@@ -441,6 +452,9 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/161
 
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="Esportes",PREMIERE 8
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/162
+
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="Esportes",PREMIERE 8 (SERVER 2)
+https://sportscdn.net/live/premiere8_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 9" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="Esportes",PREMIERE 9
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/163
@@ -484,6 +498,22 @@ https://mycdn.delivery/sonychannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/Hn55nm6b/space.png" group-title="Filmes e Séries",SPACE
 https://mycdn.delivery/space/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL
+https://sportscdn.net/live/7kr9652337gq.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 2" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL 2
+https://sportscdn.net/live/37vh3h9g33db.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 3" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL 3
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 4" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL 4
+https://sportscdn.net/live/w4p6tj81tr58.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 5" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL 5
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 6" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL 6
+https://sportscdn.net/live/hs0n0w1c1rog.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
