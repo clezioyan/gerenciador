@@ -231,7 +231,6 @@ http://5ce.co:80/pamelaflores/92446060a/98441
 https://mycdn.delivery/e/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN" tvg-logo="" group-title="Esportes",ELEVEN
-https://sportscdn.net/live/03d9uzqsw4f4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2" tvg-logo="https://sportscdn.net/live/r8ae459o07rh.m3u8" group-title="Esportes",ELEVEN 2
 
@@ -242,7 +241,6 @@ https://sportscdn.net/live/03d9uzqsw4f4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 5" tvg-logo="https://sportscdn.net/live/2wn54v8t3j6p.m3u8" group-title="Esportes",ELEVEN 5
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 6" tvg-logo="https://i.postimg.cc/k5pBLmLQ/eleven6.png" group-title="Esportes",ELEVEN 6
-https://sportscdn.net/live/wzi9wivs75ki.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/HnGjstYj/espn.png" group-title="Esportes",ESPN
 https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
@@ -359,6 +357,7 @@ https://amg01391-addigital-jovempan-klowdtv-cpe4b.amagi.tv/playlist/amg01391-add
 https://mycdn.delivery/lifetime/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="https://i.postimg.cc/8kHVCHP3/like.png" group-title="Variedades e Documentários",LIKE
+http://pfsv.io:80/leticia/131278/125219.ts
 
 #EXTINF:-1 tvg-id"" tvg-name="MAX 1" tvg-logo="https://i.postimg.cc/cLKqXGMy/max.png" group-title="Esportes", MAX 1
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/832
@@ -508,20 +507,16 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 https://mycdn.delivery/space/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL
-https://sportscdn.net/live/7kr9652337gq.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 2" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL 2
-https://sportscdn.net/live/37vh3h9g33db.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 3" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL 3
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 4" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL 4
-https://sportscdn.net/live/w4p6tj81tr58.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 5" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL 5
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 6" tvg-logo="" group-title="Esportes",SPORTV PORTUGAL 6
-https://sportscdn.net/live/hs0n0w1c1rog.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
