@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.postimg.cc/bwYDc1fx/a-e.png" group-title="Filmes e Séries",A&E
-https://watch.vcdn.in/aee/tracks-v1a1/mono.m3u8
+https://mycdn.delivery/aee/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="https://i.postimg.cc/8P9MfLZd/agrobrasiltv.png" group-title="Notícias",AGRO BRASIL
 
@@ -11,22 +11,22 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/852
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.postimg.cc/hGqmpcWf/amc.png" group-title="Filmes e Séries",AMC 
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/228
+https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/5tqCrTbp/animalplanet.png" group-title="Variedades e Documentários",ANIMAL PLANET
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/61
+https://mycdn.delivery/animalplanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://i.postimg.cc/bNRc06qx/animetv.png" group-title="Infantil",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARTE1" tvg-logo="https://i.postimg.cc/DZvX36zh/arte1.png" group-title="Variedades e Documentários",ARTE1
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/231
+https://mycdn.delivery/arte1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.postimg.cc/QtfW87BT/axn.png" group-title="Filmes e Séries",AXN
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/233
+https://mycdn.delivery/axn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.postimg.cc/fTGXGVT5/babytv.png" group-title="Infantil",BABY TV
-http://5ce.co:80/pamelaflores/92446060a/10872
+https://mycdn.delivery/babytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND MINAS" tvg-logo="https://i.postimg.cc/8c3JWVmk/bandeirantes.png" group-title="Canais Abertos",BAND MINAS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/481
@@ -38,7 +38,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/482
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/120
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP" tvg-logo="https://i.postimg.cc/8c3JWVmk/bandeirantes.png" group-title="Canais Abertos",BAND SP
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/484
+https://mycdn.delivery/band/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/65k4ptQY/bbb.png" group-title="Variedades e Documentários",BBB
 
@@ -59,11 +59,11 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/486
 #EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT" tvg-logo="https://i.postimg.cc/wjDJg91z/canalgoat.png",CANAL GOAT
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1265
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT" tvg-logo="https://i.postimg.cc/wjDJg91z/canalgoat.png",CANAL GOAT
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 2" tvg-logo="https://i.postimg.cc/wjDJg91z/canalgoat.png",CANAL GOAT 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1264
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL OFF" tvg-logo="https://i.postimg.cc/KjK4mHS6/canaloff.png" group-title="Variedades e Documentários",CANAL OFF
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/273
+https://mycdn.delivery/canaloff/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://i.postimg.cc/DzgX45QY/canalrural.png" group-title="Canais Abertos",CANAL RURAL
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimRERKtwSrVDOxRoVHsX-X3o
@@ -72,10 +72,10 @@ http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimRERKtwSrVDOxRoVHsX-X3o
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/97
 
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/nzS90zP4/cartoonito.png" group-title="Infantil",CARTOONITO
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/344
+https://mycdn.delivery/cartoonito/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/02wr3FCm/cartoonnetwork.png" group-title="Infantil",CARTOON NETWORK
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/346
+https://mycdn.delivery/cartoonnetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.postimg.cc/C1xfGDmM/cazetv.png" group-title="Esportes",CAZE TV
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1145 
@@ -87,10 +87,10 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1266
 http://5ce.co:80/pamelaflores/92446060a/217235
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE CANAL" tvg-logo="https://i.postimg.cc/CLDLSbTZ/cinecanal.png" group-title="Filmes e Séries",CINE CANAL
-http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimYSu4umE_UZCwoxMc9bGZMA
+https://mycdn.delivery/cinecanal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Filmes e Séries",CINEMAX
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/239
+https://mycdn.delivery/cinemax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Filmes e Séries", CINE SKY 1 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/754
@@ -138,19 +138,19 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/812
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/813
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="https://i.postimg.cc/W3z17H3d/cnnbrasil.png" group-title="Notícias",CNN BRASIL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/433
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/6a9edbefc23e452d8933c7fde4c83cde/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="https://i.postimg.cc/rmHFZN0Q/combate.png" group-title="Esportes",COMBATE
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/122
 
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.postimg.cc/nrQVy9qZ/comedycentral.png" group-title="Variedades e Documentários",COMEDY CENTRAL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/99
+https://mycdn.delivery/comedycentral/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="https://i.postimg.cc/7b8PwPNz/cultura.png" group-title="Canais Abertos",CULTURA
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="https://i.postimg.cc/52hQ6vJQ/tvcultura.png" group-title="Canais Abertos", CULTURA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 
 #EXTINF:-1 tvg-id="" tvg-name="CURTA!" tvg-logo="https://i.postimg.cc/9X4GmxpX/curta.png" group-title="Variedades e Documentários",CURTA!
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/100
+https://mycdn.delivery/curta/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://i.postimg.cc/CMWbzjPG/dazn.png" group-title="Esportes", DAZN 1
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/206
@@ -165,31 +165,31 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/823
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/824
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.postimg.cc/kXKK8Bzk/discovery.png" group-title="Variedades e Documentários",DISCOVERY CHANNEL
-https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
+https://mycdn.delivery/discovery/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://i.postimg.cc/mr2H0Vks/discoveryh-h.png" group-title="Variedades e Documentários",DISCOVERY H&H
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/67
+https://mycdn.delivery/discoveryheh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://i.postimg.cc/VkwMFzc5/discoveryid.png" group-title="Variedades e Documentários",DISCOVERY ID
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/69
+https://mycdn.delivery/discoveryid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.postimg.cc/TP7DGm5W/discoverykids.png" group-title="Infantil",DISCOVERY KIDS
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/348
+https://mycdn.delivery/discoverykids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.postimg.cc/rw94n78j/discoveryscience.png" group-title="Variedades e Documentários",DISCOVERY SCIENCE
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/71
+https://mycdn.delivery/discoveryscience/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.postimg.cc/857rC5LX/discoverytheater.png" group-title="Variedades e Documentários",DISCOVERY THEATER
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/73
+https://mycdn.delivery/discoverytheater/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.postimg.cc/ZYgyNW3Z/discoveryturbo.png" group-title="Variedades e Documentários",DISCOVERY TURBO
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/75
+https://mycdn.delivery/discoveryturbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.postimg.cc/qRW66TLJ/discoveryworld.png" group-title="Variedades e Documentários",DISCOVERY WORLD
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/77
+https://mycdn.delivery/discoveryworld/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.postimg.cc/J0JDb26b/disneychannel.png" group-title="Infantil",DISNEY CHANNEL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/351
+https://mycdn.delivery/disneychannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="https://i.postimg.cc/kgP6jLfp/dogtv.png" group-title="Documentários e Variedades", DOG TV
 http://5ce.co:80/pamelaflores/92446060a/98441
@@ -197,7 +197,7 @@ http://5ce.co:80/pamelaflores/92446060a/98441
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.postimg.cc/RV5nMvhG/dw.png" group-title="Infantil" group-title="Notícias", DW
 
 #EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/L6tg5GZS/e.png" group-title="Variedades e Documentários",E! Entertainment
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/102
+https://mycdn.delivery/e/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2" tvg-logo="https://i.postimg.cc/P5dpwKmw/eleven2.png" group-title="Esportes",ELEVEN 2
 
@@ -213,39 +213,34 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/102
 https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/MHyHcjH5/espn2.png" group-title="Esportes",ESPN 2
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/129
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.postimg.cc/hPBhkMZ5/espn3.png" group-title="Esportes",ESPN 3
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31166
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://i.postimg.cc/mZMtpKj9/espn4.png" group-title="Esportes",ESPN 4
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/142
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://i.postimg.cc/jd4CtNGd/espn5.png" group-title="Esportes",ESPN 5
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/139
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://i.postimg.cc/CxM515gC/espn6.png" group-title="Esportes",ESPN 6
-http://5ce.co:80/pamelaflores/92446060a/17077
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="https://i.postimg.cc/jS85JTxp/eurochannel.png" group-title="Esportes", EUROCHANNEL
 
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.postimg.cc/vmcmrKDc/fashiontv.png" group-title="Variedades e Documentários",FASHION TV
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/878
+https://mycdn.delivery/fashiontv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FILM&ARTS" tvg-logo="https://i.postimg.cc/rp3wQ9tg/filmsarts.png" group-title="Filmes e Séries",FILM&ARTS
-http://5ce.co:80/pamelaflores/92446060a/37755
+https://mycdn.delivery/filmearts/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="https://i.postimg.cc/Y9FqVm67/fishtv.png" group-title="Variedades e Documentários",FISH TV
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/79
+https://mycdn.delivery/fishtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://i.postimg.cc/d3KtKt6y/foodnetwork.png" group-title="Variedades e Documentários",FOOD NETWORK
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/104
+https://mycdn.delivery/foodnetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="https://i.postimg.cc/BZxnBHZc/futura.png" group-title="Canais Abertos",FUTURA
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/243
+https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.postimg.cc/3NCrr5fb/fx.png" group-title="Filmes e Séries",FX
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/244
+https://mycdn.delivery/fx/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="https://i.postimg.cc/NfBfJF5h/gazeta.png" group-title="Canais Abertos",GAZETA
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
@@ -275,46 +270,46 @@ http://hls1.sua.tv:80/live/globosphd/s.m3u8
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/498
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="https://i.postimg.cc/13zRSdGJ/gloob.png" group-title="Infantil",GLOOB
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/357
+https://mycdn.delivery/gloob/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="https://i.postimg.cc/8CJ1Jrnv/gloobinho.png" group-title="Infantil",GLOOBINHO
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/359
+https://mycdn.delivery/gloobinho/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://i.postimg.cc/N03Q1fWz/gnt.png" group-title="Variedades e Documentários",GNT
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/107
+https://mycdn.delivery/gnt/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.postimg.cc/SsckVb4N/hbo.png" group-title="Filmes e Séries",HBO
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/251
+https://mycdn.delivery/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/mkRR5pZ3/hbo2.png" group-title="Filmes e Séries",HBO 2
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/247
+https://mycdn.delivery/hbo2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.postimg.cc/Y2ftW78d/hbofamily.png" group-title="Filmes e Séries",HBO FAMILY
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/252
+https://mycdn.delivery/hbofamily/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://i.postimg.cc/KjNFS746/hbomundi.png" group-title="Filmes e Séries",HBO MUNDI
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/256
+https://mycdn.delivery/hbomundi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="Filmes e Séries",HBO+
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/258
+https://mycdn.delivery/hboplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://i.postimg.cc/xT6Y6PwH/hbopop.png" group-title="Filmes e Séries",HBO POP
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/260
+https://mycdn.delivery/hbopop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/K84bwMbW/hbosignature.png" group-title="Filmes e Séries",HBO SIGNATURE
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/264
+https://mycdn.delivery/hbosignature/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://i.postimg.cc/tgxjCGYt/hboxtreme.png" group-title="Filmes e Séries",HBO XTREME
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/266
+https://mycdn.delivery/hboxtreme/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/W1KVv1b1/hgtv.png" group-title="Variedades e Documentários",HGTV 
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/816
+https://mycdn.delivery/hgtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.postimg.cc/C1CpkCCR/historychannel.png" group-title="Variedades e Documentários",HISTORY CHANNEL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/83
+https://mycdn.delivery/history/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://i.postimg.cc/RFxzWptr/history2.png" group-title="Variedades e Documentários",History 2
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/815
+https://mycdn.delivery/history2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://i.postimg.cc/fywnK35B/istv.png" group-title="Filmes e Séries",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
@@ -323,7 +318,7 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 https://amg01391-addigital-jovempan-klowdtv-cpe4b.amagi.tv/playlist/amg01391-addigital-jovempan-klowdtv/cb573d177a6c668f84cb3c62cef64082967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244da69bfb102488b2f57f3d710cfd518bf8085469c438571ec159cc7a696da458a848c67ab52e1305f0a232fca832ea1253cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b3cc80a736d23335291c65e732b0327ae8ef23471ca0e1a435abc011eb4d16e146ac063d9316b1f95efca1d978972fcd370dde0394d6a87f92fead32dc27226e8193c5c1efe6141870866c34e73a750a78864d828924ba9c12c115d5848a2a0f2a5ecc4733f78468a8c5f9b4655e99bc3b4d6003fc577081ac654990a55229c6f2c4bec23afce672c91705ecc751ceb48398575f9ba07fcb394b0556cfb8d9102b744c78127feba42a564375c4294f72f544a053df3e674023d7c8c14b68684b139594ebcb7feffc6522a0e7642015bc5b1b130be8ac7664c44941d762e245e47e471bc03e809470421de0d93fd5906e228156db7f7710d2023fca19c8884c4c557ba79c7bd941426384b6cae3c033214bd93895ef878063e4d548e0b6b54ae453d66ef86c2f1969064adcd3df3200399daf79b4e2eea1bbefba307ad3dfd02/199/1280x720_3000797/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://i.postimg.cc/xT1VNzXd/lifetime.png" group-title="Variedades e Documentários",LIFETIME
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/269
+https://mycdn.delivery/lifetime/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="https://i.postimg.cc/8kHVCHP3/like.png" group-title="Variedades e Documentários",LIKE
 
@@ -340,33 +335,34 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/834
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/835
 
 #EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="https://i.postimg.cc/jd7n4RQf/megapix.png" group-title="Filmes e Séries",MEGAPIX
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/270
+https://mycdn.delivery/megapix/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM" tvg-logo="https://i.postimg.cc/5tvhW5Rs/modoviagem.png" group-title="Variedades e Documentários",MODO VIAGEM
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/85
+https://mycdn.delivery/modoviagem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://i.postimg.cc/MpgCL3dc/mtv.png" group-title="Variedades e Documentários",MTV
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/112
+https://mycdn.delivery/mtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://i.postimg.cc/kgNVLwHX/mtvlive.png" group-title="Variedades e Documentários",MTV LIVE
-http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimQal9Gij_LiTEUsOmZJ8XSBui8rHZG-75ZTr8BjmQgVc
+https://mycdn.delivery/mtvlive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC" tvg-logo="https://i.postimg.cc/9MYsrmVT/mtvmusic.png" group-title="Variedades e Documentários",MTV MUSIC
+https://mycdn.delivery/mtvs_00/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="https://i.postimg.cc/RhCytkVY/multishow.png" group-title="Variedades e Documentários",MULTISHOW
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/423
+https://mycdn.delivery/multishow/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://i.postimg.cc/25zqYhpd/musicboxbrazil.png" group-title="Variedades e Documentários",MUSIC BOX BRAZIL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/424
+https://mycdn.delivery/musicboxbrasil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/g0Nx2jdC/nationalgeographic.png" group-title="Variedades e Documentários",NATIONAL GEOGRAPHIC 
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/87
+https://mycdn.delivery/nationalgeographic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://i.postimg.cc/NMF59tj5/nickelodeon.png" group-title="Infantil",NICKELODEON
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/365
+https://mycdn.delivery/nick/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.postimg.cc/Gh5VBS0M/nickjr.png" group-title="Infantil",NICK JR
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/363
+https://mycdn.delivery/nickjr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL" tvg-logo="https://i.postimg.cc/K83Vtrxm/nossofutebol.png" group-title="Esportes",NOSSO FUTEBOL
 
@@ -419,7 +415,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/162
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/163
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://i.postimg.cc/zD9Frtxn/primeboxbrazil.png" group-title="Variedades e Documentários",PRIME BOX BRAZIL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/277
+https://mycdn.delivery/primeboxbrazil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="https://i.postimg.cc/vHk28g9k/record.png" group-title="Canais Abertos",RECORD SP
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/999
@@ -444,7 +440,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/113
 #EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE" tvg-logo="https://i.postimg.cc/prykRRdP/sabor&arte.png" group-title="Canais Abertos",SABOR & ARTE
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://i.postimg.cc/SQtDV2ZR/sbt.png" group-title="Canais Abertos",SBT
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/534
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT ALTEROSA" tvg-logo="https://i.postimg.cc/wjkXD6gV/sbtalterosa.png" group-title="Canais Abertos",SBT ALTEROSA
 http://5ce.co:80/pamelaflores/92446060a/41400
@@ -453,10 +449,10 @@ http://5ce.co:80/pamelaflores/92446060a/41400
 http://5ce.co:80/pamelaflores/92446060a/38270
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://i.postimg.cc/zB4KqvFJ/sonychannel.png" group-title="Filmes e Séries",SONY CHANNEL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/238
+https://mycdn.delivery/sonychannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/Hn55nm6b/space.png" group-title="Filmes e Séries",SPACE
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/278
+https://mycdn.delivery/space/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
@@ -468,7 +464,7 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31163
 https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://i.postimg.cc/T1hg6mDN/starchannel.png" group-title="Filmes e Séries",STAR CHANNEL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/281
+https://mycdn.delivery/starchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="https://i.postimg.cc/qq9crKYG/starplus.png" group-title="Esportes" ,STAR+ 1 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/829
@@ -495,7 +491,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1149
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1150
 
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.postimg.cc/MpzR6hVj/studiouniversal.png" group-title="Filmes e Séries",STUDIO UNIVERSAL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/289
+https://mycdn.delivery/studiouniversal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://i.postimg.cc/jd7QX8w3/syfy.png" group-title="Filmes e Séries",SYFY
 http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimducQkR81Fd_z1W_LZUrwU_dViCgNLKIDCwh5ekNu-kE
@@ -504,51 +500,51 @@ http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimducQkR81Fd_z1W_LZUrwU_dViCgNLKI
 http://5ce.co:80/pamelaflores/92446060a/42478
 
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.postimg.cc/j5QLxNJQ/tcm.png" group-title="Filmes e Séries",TCM
-http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimfODcM-k4DhTEixHz-0DioIitLeVAjlnTb9OMYr2vXMT
+https://mycdn.delivery/tcm/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo="https://i.postimg.cc/hGSLKcCN/telecineaction.png" group-title="Filmes e Séries",TELECINE ACTION
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/294
+https://mycdn.delivery/telecineaction/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT" tvg-logo="https://i.postimg.cc/25246MMy/telecinecult.png" group-title="Filmes e Séries",TELECINE CULT
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/297
+https://mycdn.delivery/telecinecult/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN" tvg-logo="https://i.postimg.cc/MTH1jtJD/telecinefun.png" group-title="Filmes e Séries",TELECINE FUN
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/300
+https://mycdn.delivery/telecinefun/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.postimg.cc/85YMdW1V/telecinepipoca.png" group-title="Filmes e Séries",TELECINE PIPOCA
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/303
+https://mycdn.delivery/telecinepipoca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/J4DZYNmG/telecinepremium.png" group-title="Filmes e Séries",TELECINE PREMIUM
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/306
+https://mycdn.delivery/telecinepremium/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH" tvg-logo="https://i.postimg.cc/1XhXFWyx/telecinetouch.png" group-title="Filmes e Séries",TELECINE TOUCH
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/309
+https://mycdn.delivery/telecinetouch/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="https://i.postimg.cc/s1dWqrQ6/terraviva.png" group-title="Canais Abertos",TERRA VIVA
 http://5ce.co:80/pamelaflores/92446060a/100493
 
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.postimg.cc/GhMTTkgX/tlc.png" group-title="Variedades e Documentários",TLC
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/91
+https://mycdn.delivery/tlc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.postimg.cc/1RgYkrVw/tnt.png" group-title="Filmes e Séries",TNT
-https://watch.vcdn.in/tnt/tracks-v1a1/mono.m3u8
+https://mycdn.delivery/tnt/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS" tvg-logo="https://i.postimg.cc/KvDkHJwc/tntnovelas.png" group-title="Filmes e Séries",TNT NOVELAS
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1167
+https://mycdn.delivery/tntnovelas/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES" tvg-logo="https://i.postimg.cc/QdS7H0JY/tntseries.png" group-title="Filmes e Séries",TNT SÉRIES
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/314
+https://mycdn.delivery/tntseries/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/GhGg23Qp/tntsports.png" group-title="Esportes",TNT SPORTS
 
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://i.postimg.cc/t4bSV0SN/tooncast.png" group-title="Infantil",TOONCAST
-http://bgsts.info:8080/play/_rbo1txrO0OEUKHmasSimQuu4iHx1WNvc6JgJbEuYRbz5wLhsfrNjNfcvaJt224l
+https://mycdn.delivery/tooncast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA" tvg-logo="https://i.postimg.cc/BQZ1vhp8/tracebrazuca.png" group-title="Variedades e Documentários",TRACE BRAZUCA
 http://5ce.co:80/pamelaflores/92446060a/113598
 
 #EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://i.postimg.cc/xdCzHMsf/travelboxbrazil.png" group-title="Variedades e Documentários",TRAVEL BOX BRAZIL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/848
+https://mycdn.delivery/travelboxbrazil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRUTV" tvg-logo="https://i.postimg.cc/0NWc3z8V/trutv.png" group-title="Variedades e Documentários",TRUTV
 http://5ce.co:80/pamelaflores/92446060a/28633
@@ -589,17 +585,16 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1164
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/319
 
 #EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="https://i.postimg.cc/8kWmdKrK/viva.png" group-title="Variedades e Documentários",VIVA
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/114
+https://mycdn.delivery/viva/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://i.postimg.cc/8chd1cSQ/warnerchannel.png" group-title="Filmes e Séries",WARNER CHANNEL
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/783
+https://mycdn.delivery/warnerchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WOOHOO" tvg-logo="https://i.postimg.cc/3R0Cc9fw/woohoo.png" group-title="Variedades e Documentários",WOOHOO
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/117
+https://mycdn.delivery/woohoo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="https://i.postimg.cc/bNhHmxxz/zoomoo.png" group-title="Infantil",ZOOMOO
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/370
-
+https://mycdn.delivery/zoomoo/tracks-v1a1/mono.m3u8
 
 
 
