@@ -1,0 +1,7 @@
+<WebGrab>
+  <filename>epg.xml</filename>
+  <mode>n</mode>
+  <channels>
+    <site site="meuguia.tv.channels.xml" />
+  </channels>
+</WebGrab>
