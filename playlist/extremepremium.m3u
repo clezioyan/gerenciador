@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="Filmes e Séries",A&E
 https://mycdn.delivery/aee/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="Filmes e Séries",A&E (expire)
+https://live-main-origin.esporteone.com/AEESD/tracks-v1a1/mono.m3u8?md5=YYTDn6x4LVHeEM-cZdbu7Q&expires=1718314375
+
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="Filmes e Séries",A&E (bruto)
+https://live-main-origin.esporteone.com/AEESD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="https://i.postimg.cc/Z59mfm1d/agrobrasiltv.png" group-title="Notícias",AGRO BRASIL (indisponível)
 https://stmv1.srvif.com/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
@@ -14,7 +20,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://i.postimg.cc/hGqmpcWf/amc.png" group-title="Filmes e Séries",AMC 
 https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/5tqCrTbp/animalplanet.png" group-title="Variedades e Documentários",ANIMAL PLANET
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/nh5prJkk/animalplanet.png" group-title="Variedades e Documentários",ANIMAL PLANET
 https://mycdn.delivery/animalplanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://i.postimg.cc/9FzTgzVb/animetv.png" group-title="Infantil",Anime TV
@@ -32,7 +38,7 @@ https://mycdn.delivery/babytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAND MINAS" tvg-logo="https://i.postimg.cc/8c3JWVmk/bandeirantes.png" group-title="Canais Abertos",BAND MINAS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/481
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://i.postimg.cc/vTNYBZJG/bandnews.png" group-title="Notícias",BAND NEWS
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://i.postimg.cc/QxfXL5Kv/bandnews.png" group-title="Notícias",BAND NEWS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/482
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="https://i.postimg.cc/brJYptF6/bandsports.png" group-title="Esportes",BAND SPORTS
@@ -206,7 +212,7 @@ https://mycdn.delivery/discoveryheh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://i.postimg.cc/VkwMFzc5/discoveryid.png" group-title="Variedades e Documentários",DISCOVERY ID
 https://mycdn.delivery/discoveryid/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.postimg.cc/W4mJqk6N/discoverykids.png" group-title="Infantil",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.postimg.cc/Dwm77Zq0/discoverykids.png" group-title="Infantil",DISCOVERY KIDS
 https://mycdn.delivery/discoverykids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.postimg.cc/rw94n78j/discoveryscience.png" group-title="Variedades e Documentários",DISCOVERY SCIENCE
@@ -317,6 +323,12 @@ https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="Canais Abertos",GLOBO SP
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="Canais Abertos",GLOBO SP (expire)
+https://live-main-origin.esporteone.com/GLOBOSPSD/tracks-v1a1/mono.m3u8?md5=h06YJPRtP6D8E3qETc3cIw&expires=1718314096
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="Canais Abertos",GLOBO SP (bruto)
+https://live-main-origin.esporteone.com/GLOBOSPSD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="https://i.postimg.cc/jSkxShvK/globonews.png" group-title="Notícias",GLOBO NEWS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/498
 
@@ -410,7 +422,7 @@ https://mycdn.delivery/musicboxbrasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/g0Nx2jdC/nationalgeographic.png" group-title="Variedades e Documentários",NATIONAL GEOGRAPHIC 
 https://mycdn.delivery/nationalgeographic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://i.postimg.cc/NMF59tj5/nickelodeon.png" group-title="Infantil",NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://i.postimg.cc/bvt82BVj/nickelodeon.png" group-title="Infantil",NICKELODEON
 https://mycdn.delivery/nick/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.postimg.cc/Gh5VBS0M/nickjr.png" group-title="Infantil",NICK JR
@@ -488,7 +500,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/999
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="https://i.postimg.cc/6pZj8Wf3/recordnews.png" group-title="Notícias",RECORD NEWS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/451
 
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="https://i.postimg.cc/7YCGMcMQ/redebrasil.png" group-title="Canais Abertos",REDE BRASIL
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="https://i.postimg.cc/43zqGkFn/redebrasil.png" group-title="Canais Abertos",REDE BRASIL
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/531
 
 #EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="https://i.postimg.cc/gkfwMDgc/redegospel.png" group-title="Canais Abertos",REDE GOSPEL
@@ -515,10 +527,17 @@ http://5ce.co:80/pamelaflores/92446060a/41400
 #EXTINF:-1 tvg-id="" tvg-name="SHOPTIME" tvg-logo="https://i.postimg.cc/yNYFPwNz/shoptime.png" group-title="Canais Abertos",SHOPTIME
 http://5ce.co:80/pamelaflores/92446060a/38270
 
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://i.postimg.cc/7hMcFfpR/sonychannel.jpg" group-title="Filmes e Séries",SONY CHANNEL
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://i.postimg.cc/QtZDgJvK/sonychannel.png" group-title="Filmes e Séries",SONY CHANNEL
 https://mycdn.delivery/sonychannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="https://i.postimg.cc/MTLnJG8z/sonymovies.webp" group-title="Filmes e Séries",SONY MOVIES
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://i.postimg.cc/QtZDgJvK/sonychannel.png" group-title="Filmes e Séries",SONY CHANNEL (expire)
+https://live-main-origin.esporteone.com/SONYMOVIESSD/tracks-v1a1/mono.m3u8?md5=wrbKiKyFNg4d_Rg0FNuYjg&expires=1718313902
+
+
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://i.postimg.cc/QtZDgJvK/sonychannel.png" group-title="Filmes e Séries",SONY CHANNEL (bruto)
+https://live-main-origin.esporteone.com/SONYMOVIESSD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="https://i.postimg.cc/nzKJ3QtR/sonymovies.png" group-title="Filmes e Séries",SONY MOVIES
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-3-main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://i.postimg.cc/PrtgnQ2r/sonyone.png" group-title="Filmes e Séries",SONY ONE
@@ -547,6 +566,15 @@ https://mycdn.delivery/sportvportugal6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV server 2
+https://stream.embedflix.info/p2p/sportv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV (expire)
+https://live-main-origin.esporteone.com/GLOBOSPSD/tracks-v1a1/mono.m3u8?md5=h06YJPRtP6D8E3qETc3cIw&expires=1718314096
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV (bruto)
+https://live-main-origin.esporteone.com/GLOBOSPSD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="https://i.postimg.cc/65JnS7Qc/sportv2.png" group-title="Esportes",SPORTV 2
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31163
