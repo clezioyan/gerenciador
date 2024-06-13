@@ -1,7 +1,65 @@
 <WebGrab>
   <filename>epg.xml</filename>
   <mode>n</mode>
+  <update>i</update>
+  <output>xmltv</output>
+  <postprocess>
+    <!-- Incluir aqui quaisquer passos de pós-processamento, se necessário -->
+  </postprocess>
   <channels>
-    <site site="meuguia.tv.channels.xml" />
+    <site site="meuguia.tv.channels.xml">
+      <!-- Exemplo de configuração para alguns canais -->
+      
+      <!-- A&E -->
+      <channel update="i" site="meuguia.tv" site_id="aande.br" xmltv_id="A&E">
+        <display-name>A&E</display-name>
+        <url>https://mycdn.delivery/aee/tracks-v1a1/mono.m3u8</url>
+      </channel>
+
+      <!-- AGRO BRASIL -->
+      <channel update="i" site="meuguia.tv" site_id="agrobrasil" xmltv_id="AGRO BRASIL">
+        <display-name>AGRO BRASIL</display-name>
+        <url>https://stmv1.srvif.com/agrobrasiltv/agrobrasiltv/playlist.m3u8</url>
+      </channel>
+
+      <!-- AGRO+ -->
+      <channel update="i" site="meuguia.tv" site_id="agromais" xmltv_id="AGRO+">
+        <display-name>AGRO+</display-name>
+        <url>http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/852</url>
+      </channel>
+
+      <!-- ALL Sports Brasil -->
+      <channel update="i" site="meuguia.tv" site_id="allsportsbrasil" xmltv_id="ALL Sports Brasil">
+        <display-name>ALL Sports Brasil</display-name>
+        <url>https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8</url>
+      </channel>
+
+      <!-- AMC -->
+      <channel update="i" site="meuguia.tv" site_id="amc.br" xmltv_id="AMC">
+        <display-name>AMC</display-name>
+        <url>https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8</url>
+      </channel>
+
+      <!-- ANIMAL PLANET -->
+      <channel update="i" site="meuguia.tv" site_id="animalplanet.br" xmltv_id="ANIMAL PLANET">
+        <display-name>ANIMAL PLANET</display-name>
+        <url>https://mycdn.delivery/animalplanet/tracks-v1a1/mono.m3u8</url>
+      </channel>
+
+      <!-- Anime TV -->
+      <channel update="i" site="meuguia.tv" site_id="animetv" xmltv_id="Anime TV">
+        <display-name>Anime TV</display-name>
+        <url>https://stmv1.srvif.com/animetv/animetv/playlist.m3u8</url>
+      </channel>
+	  
+	  <!-- Anime TV -->
+      <channel update="i" site="meuguia.tv" site_id="animetv" xmltv_id="Anime TV">
+        <display-name>Anime TV</display-name>
+        <url>https://stmv1.srvif.com/animetv/animetv/playlist.m3u8</url>
+      </channel>
+
+      <!-- Adicione mais canais conforme necessário -->
+
+    </site>
   </channels>
 </WebGrab>
