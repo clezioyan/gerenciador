@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="Filmes e Séries",A&E
 https://mycdn.delivery/aee/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="Filmes e Séries",A&E (expire)
-https://live-main-origin.esporteone.com/AEESD/tracks-v1a1/mono.m3u8?md5=YYTDn6x4LVHeEM-cZdbu7Q&expires=1718314375
-
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="Filmes e Séries",A&E (bruto)
-https://live-main-origin.esporteone.com/AEESD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="https://i.postimg.cc/Z59mfm1d/agrobrasiltv.png" group-title="Notícias",AGRO BRASIL (indisponível)
 https://stmv1.srvif.com/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
@@ -114,12 +108,9 @@ https://mycdn.delivery/cartoonito/tracks-v1a1/mono.m3u8
 https://mycdn.delivery/cartoonnetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.postimg.cc/8c9GGnv5/cazetv.png" group-title="Esportes",CAZE TV
-http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1145 
-
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.postimg.cc/8c9GGnv5/cazetv.png" group-title="Esportes",CAZE TV 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1266
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.postimg.cc/8c9GGnv5/cazetv.png" group-title="Esportes",CAZE TV 3
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.postimg.cc/8c9GGnv5/cazetv.png" group-title="Esportes",CAZE TV 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1265
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cLG6NhDz/cbn.png" group-title="Notícias",CBN SP (indisponível)
@@ -242,16 +233,16 @@ https://mycdn.delivery/e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN" tvg-logo="" group-title="Esportes",ELEVEN (indisponível)
 https://mycdn.delivery/eleven/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2" tvg-logo="https://sportscdn.net/live/r8ae459o07rh.m3u8" group-title="Esportes",ELEVEN 2 (indisponível)
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2" tvg-logo="https://i.postimg.cc/P5dpwKmw/eleven2.png" group-title="Esportes",ELEVEN 2 (indisponível)
 https://mycdn.delivery/eleven2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 3" tvg-logo="https://sportscdn.net/live/5c68ho92tgui.m3u8" group-title="Esportes",ELEVEN 3 (indisponível)
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 3" tvg-logo="https://i.postimg.cc/g24wqRDB/eleven3.png" group-title="Esportes",ELEVEN 3 (indisponível)
 https://mycdn.delivery/eleven3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 4" tvg-logo="https://sportscdn.net/live/7yb73xk1gtli.m3u8" group-title="Esportes",ELEVEN 4 (indisponível)
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 4" tvg-logo="https://i.postimg.cc/N0MKNMCG/eleven4.png" group-title="Esportes",ELEVEN 4 (indisponível)
 https://mycdn.delivery/eleven4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 5" tvg-logo="https://sportscdn.net/live/2wn54v8t3j6p.m3u8" group-title="Esportes",ELEVEN 5 (indisponível)
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 5" tvg-logo="https://i.postimg.cc/V60d8hc3/eleven5.png" group-title="Esportes",ELEVEN 5 (indisponível)
 https://mycdn.delivery/eleven5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 6" tvg-logo="https://i.postimg.cc/k5pBLmLQ/eleven6.png" group-title="Esportes",ELEVEN 6 (indisponível)
@@ -294,7 +285,10 @@ https://mycdn.delivery/foodnetwork/tracks-v1a1/mono.m3u8
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="https://i.postimg.cc/tgpj96sh/futura.png" group-title="Canais Abertos",FUTURA (indisponível)
-https://mycdn.delivery/futura/tracks-v1a1/mono.m3u8
+https://mycdn.delivery/tvfutura/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="https://i.postimg.cc/tgpj96sh/futura.png" group-title="Canais Abertos",FUTURA
+http://5ce.co:80/pamelaflores/92446060a/100461
 
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://i.postimg.cc/3NCrr5fb/fx.png" group-title="Filmes e Séries",FX
 https://mycdn.delivery/fx/tracks-v1a1/mono.m3u8
@@ -322,12 +316,6 @@ https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="Canais Abertos",GLOBO SP
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="Canais Abertos",GLOBO SP (expire)
-https://live-main-origin.esporteone.com/GLOBOSPSD/tracks-v1a1/mono.m3u8?md5=h06YJPRtP6D8E3qETc3cIw&expires=1718314096
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="Canais Abertos",GLOBO SP (bruto)
-https://live-main-origin.esporteone.com/GLOBOSPSD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="https://i.postimg.cc/jSkxShvK/globonews.png" group-title="Notícias",GLOBO NEWS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/498
@@ -530,13 +518,6 @@ http://5ce.co:80/pamelaflores/92446060a/38270
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://i.postimg.cc/QtZDgJvK/sonychannel.png" group-title="Filmes e Séries",SONY CHANNEL
 https://mycdn.delivery/sonychannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://i.postimg.cc/QtZDgJvK/sonychannel.png" group-title="Filmes e Séries",SONY CHANNEL (expire)
-https://live-main-origin.esporteone.com/SONYMOVIESSD/tracks-v1a1/mono.m3u8?md5=wrbKiKyFNg4d_Rg0FNuYjg&expires=1718313902
-
-
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://i.postimg.cc/QtZDgJvK/sonychannel.png" group-title="Filmes e Séries",SONY CHANNEL (bruto)
-https://live-main-origin.esporteone.com/SONYMOVIESSD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="https://i.postimg.cc/nzKJ3QtR/sonymovies.png" group-title="Filmes e Séries",SONY MOVIES
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-3-main.m3u8
 
@@ -566,15 +547,6 @@ https://mycdn.delivery/sportvportugal6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV server 2
-https://stream.embedflix.info/p2p/sportv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV (expire)
-https://live-main-origin.esporteone.com/GLOBOSPSD/tracks-v1a1/mono.m3u8?md5=h06YJPRtP6D8E3qETc3cIw&expires=1718314096
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="Esportes",SPORTV (bruto)
-https://live-main-origin.esporteone.com/GLOBOSPSD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="https://i.postimg.cc/65JnS7Qc/sportv2.png" group-title="Esportes",SPORTV 2
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31163
@@ -655,7 +627,7 @@ https://mycdn.delivery/tntnovelas/tracks-v1a1/mono.m3u8
 https://mycdn.delivery/tntseries/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/GhGg23Qp/tntsports.png" group-title="Esportes",TNT SPORTS (indisponível)
-https://mycdn.delivery/tntsports/tracks-v1a1/mono.m3u8
+https://mycdn.delivery/tnt_sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://i.postimg.cc/t4bSV0SN/tooncast.png" group-title="Infantil",TOONCAST
 https://mycdn.delivery/tooncast/tracks-v1a1/mono.m3u8
@@ -699,7 +671,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/939
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="https://i.postimg.cc/05wPd91K/tvsenado.png" group-title="Canais Abertos",TV SENADO
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1164
 
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://i.postimg.cc/W1K9fGd3/ufcfightpass.jpg" group-title="Esportes",UFC FIGHT PASS (indisponível)
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://i.postimg.cc/htb6zsjZ/ufcfightpass.png" group-title="Esportes",UFC FIGHT PASS (indisponível)
 https://mycdn.delivery/ufcfightpass/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.postimg.cc/tJ0tQP8N/universalchannel.png" group-title="Filmes e Séries",UNIVERSAL CHANNEL
@@ -708,7 +680,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/319
 #EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="https://i.postimg.cc/wTYHwn9f/viva.png" group-title="Variedades e Documentários",VIVA
 https://mycdn.delivery/viva/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="" group-title="Filmes e Séries",WARNER CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://i.postimg.cc/LsxWvsjz/warnerchannel.png" group-title="Filmes e Séries",WARNER CHANNEL
 https://mycdn.delivery/warnerchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WOOHOO" tvg-logo="https://i.postimg.cc/cJdLj5wW/woohoo.png" group-title="Variedades e Documentários",WOOHOO
