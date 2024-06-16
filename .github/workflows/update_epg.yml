@@ -13,17 +13,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '20'
-
-    - name: Add WebGrab+Plus PPA and install
+    - name: Install dependencies
       run: |
         sudo apt-get update
-        sudo add-apt-repository ppa:henrythasler/webgrabplus
-        sudo apt-get update
-        sudo apt-get install -y webgrabplus
+        sudo apt-get install -y wget
+        wget https://github.com/WebGrabPlus/webgrabplus/releases/download/3.2.0/WebGrabPlus_V3.2_install.tar.gz
+        tar -xzf WebGrabPlus_V3.2_install.tar.gz -C /opt
+        sudo ln -s /opt/WebGrabPlus/wg++ /usr/local/bin/webgrabplus
 
     - name: Run WebGrab+Plus
       run: |
