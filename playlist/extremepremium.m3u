@@ -284,9 +284,6 @@ https://mycdn.delivery/foodnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX KIDS" tvg-logo="https://i.postimg.cc/T3DbGSKW/foxkids.png" group-title="Infantil",FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="https://i.postimg.cc/tgpj96sh/futura.png" group-title="Canais Abertos",FUTURA (offline)
-https://mycdn.delivery/tvfutura/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="https://i.postimg.cc/tgpj96sh/futura.png" group-title="Canais Abertos",FUTURA
 http://5ce.co:80/pamelaflores/92446060a/100461
 
