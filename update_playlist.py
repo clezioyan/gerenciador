@@ -3,11 +3,10 @@ from selenium.webdriver.common.by import By
 import time
 
 # Configurações
-playlist_url = "https://clezioyan.github.io/gerenciador/playlist/extremepremium.m3u"
 smart_tv_club_url = "https://smartclub.tv/pt/update-playlist/"
 mac_address = "3328-c68a-8a88-b4fd"
 
-# Inicializar o WebDriver (assumindo que você está usando o Chrome)
+# Inicializar o WebDriver (usando Chrome headless)
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')
 options.add_argument('--no-sandbox')
