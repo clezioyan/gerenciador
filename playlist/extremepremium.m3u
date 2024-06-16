@@ -2,16 +2,16 @@
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="Filmes e Séries", A&E
 https://mycdn.delivery/aee/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="https://i.postimg.cc/Z59mfm1d/agrobrasiltv.png" group-title="Notícias", AGRO BRASIL (offline)
+#EXTINF:-1 tvg-id="agrobrasiltv.br" tvg-name="AGRO BRASIL TV" tvg-logo="https://i.postimg.cc/Z59mfm1d/agrobrasiltv.png" group-title="Notícias", AGRO BRASIL TV (offline)
 https://stmv1.srvif.com/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/XqVdwGMb/agromais.png" group-title="Notícias", AGRO+ 
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/XqVdwGMb/agromais.png" group-title="Notícias", AGRO+ 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/852
 
-#EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.postimg.cc/FsYF60Sz/allsportsbrasil.png" group-title="Esportes", ALL Sports Brasil
+#EXTINF:-1 tvg-id="" tvg-name="ALL Sports Brasil" tvg-logo="https://i.postimg.cc/FsYF60Sz/allsportsbrasil.png" group-title="Esportes", ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://i.postimg.cc/hGqmpcWf/amc.png" group-title="Filmes e Séries", AMC 
+#EXTINF:-1 tvg-id="amc.br" tvg-name="310177" tvg-logo="https://i.postimg.cc/hGqmpcWf/amc.png" group-title="Filmes e Séries", AMC 
 https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/nh5prJkk/animalplanet.png" group-title="Variedades e Documentários",ANIMAL PLANET
@@ -20,25 +20,25 @@ https://mycdn.delivery/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://i.postimg.cc/9FzTgzVb/animetv.png" group-title="Infantil", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ARTE1" tvg-logo="https://i.postimg.cc/DZvX36zh/arte1.png" group-title="Variedades e Documentários", ARTE1
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE1" tvg-logo="https://i.postimg.cc/DZvX36zh/arte1.png" group-title="Variedades e Documentários", ARTE1
 https://mycdn.delivery/arte1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://i.postimg.cc/QtfW87BT/axn.png" group-title="Filmes e Séries", AXN
 https://mycdn.delivery/axn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.postimg.cc/9X8F1Lrs/babytv.png" group-title="Infantil", BABY TV
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV" tvg-logo="https://i.postimg.cc/9X8F1Lrs/babytv.png" group-title="Infantil", BABY TV
 https://mycdn.delivery/babytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS" tvg-logo="https://i.postimg.cc/8c3JWVmk/bandeirantes.png" group-title="Canais Abertos", BAND MINAS
+#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND MINAS" tvg-logo="https://i.postimg.cc/8c3JWVmk/bandeirantes.png" group-title="Canais Abertos", BAND MINAS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/481
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://i.postimg.cc/QxfXL5Kv/bandnews.png" group-title="Notícias", BAND NEWS
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS" tvg-logo="https://i.postimg.cc/QxfXL5Kv/bandnews.png" group-title="Notícias", BAND NEWS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/482
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="https://i.postimg.cc/brJYptF6/bandsports.png" group-title="Esportes", BAND SPORTS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/120
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP" tvg-logo="https://i.postimg.cc/8c3JWVmk/bandeirantes.png" group-title="Canais Abertos", BAND SP
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="BAND SP" tvg-logo="https://i.postimg.cc/8c3JWVmk/bandeirantes.png" group-title="Canais Abertos", BAND SP
 https://mycdn.delivery/band/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/fT1WQk7K/bbb.png" group-title="Canais @ BBB Câmeras", BBB CAM01 (offline)
@@ -74,13 +74,13 @@ http://pfsv.io:80/leticia/131278/186249.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/fT1WQk7K/bbb.png" group-title="Canais @ BBB Câmeras", BBB CAM11 (offline)
 http://pfsv.io:80/leticia/131278/186248.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="https://i.postimg.cc/nVwq1dyy/bis.png" group-title="Variedades e Documentários", BIS
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="https://i.postimg.cc/nVwq1dyy/bis.png" group-title="Variedades e Documentários", BIS
 https://mycdn.delivery/bis/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://i.postimg.cc/j5qVwTxF/bloomberg.png" group-title="Notícias", BLOOMBERG (offline)
+#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG" tvg-logo="https://i.postimg.cc/j5qVwTxF/bloomberg.png" group-title="Notícias", BLOOMBERG (offline)
 https://stmv1.srvif.com/animetv/bloomberg/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://i.postimg.cc/kMxB2TnN/boomerang.png" group-title="Notícias", BOOMERANG (offline)
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG" tvg-logo="https://i.postimg.cc/kMxB2TnN/boomerang.png" group-title="Notícias", BOOMERANG (offline)
 https://stmv1.srvif.com/animetv/boomerabg/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://i.postimg.cc/5tSfz3h7/canalbrasil.png" group-title="Filmes e Séries",CANAL BRASIL
@@ -95,7 +95,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1264
 #EXTINF:-1 tvg-id="" tvg-name="CANAL OFF" tvg-logo="https://i.postimg.cc/KjK4mHS6/canaloff.png" group-title="Variedades e Documentários",CANAL OFF
 https://mycdn.delivery/canaloff/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://i.postimg.cc/wvxgQNH6/canalrural.png" group-title="Canais Abertos",CANAL RURAL (offline)
+#EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://i.postimg.cc/wvxgQNH6/canalrural.png" group-title="Canais Abertos",CANAL RURAL (offline)
 https://mycdn.delivery/canalrural/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.postimg.cc/76BDsLYS/cancaonova.png" group-title="Canais Abertos",CANÇÃO NOVA
@@ -104,7 +104,7 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/97
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/t4Xy4HkP/cartoonito.png" group-title="Infantil",CARTOONITO
 https://mycdn.delivery/cartoonito/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/02wr3FCm/cartoonnetwork.png" group-title="Infantil",CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/02wr3FCm/cartoonnetwork.png" group-title="Infantil",CARTOON NETWORK
 https://mycdn.delivery/cartoonnetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.postimg.cc/8c9GGnv5/cazetv.png" group-title="Esportes",CAZE TV
