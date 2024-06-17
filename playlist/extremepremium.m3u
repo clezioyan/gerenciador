@@ -323,8 +323,8 @@ https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="Canais @ Globo",GLOBO SP
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRAÇÃO" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="Canais Abertos", GLOBO TV INTEGRAÇÃO
-http://5ce.co:80/pamelaflores/92446060a/122181
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRAÇÃO" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="Canais Abertos", GLOBO TV INTEGRAÇÃO UBERLÂNDIA
+http://5ce.co:80/pamelaflores/92446060a/122180
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="https://i.postimg.cc/jSkxShvK/globonews.png" group-title="Notícias",GLOBO NEWS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/498
