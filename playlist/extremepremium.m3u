@@ -347,6 +347,9 @@ https://mycdn.delivery/gnt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://i.postimg.cc/SsckVb4N/hbo.png" group-title="Filmes e Séries",HBO (offline)
 https://mycdn.delivery/hbo/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://i.postimg.cc/SsckVb4N/hbo.png" group-title="Filmes e Séries",HBO (SERVIDOR 2)
+http://esrv.cc:80/live/MarcoOlive/Dg639925/31488.ts
+
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/mkRR5pZ3/hbo2.png" group-title="Filmes e Séries",HBO 2
 https://mycdn.delivery/hbo2/tracks-v1a1/mono.m3u8
 
