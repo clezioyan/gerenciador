@@ -95,8 +95,8 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1264
 #EXTINF:-1 tvg-id="" tvg-name="CANAL OFF" tvg-logo="https://i.postimg.cc/KjK4mHS6/canaloff.png" group-title="Variedades e Documentários",CANAL OFF
 https://mycdn.delivery/canaloff/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://i.postimg.cc/wvxgQNH6/canalrural.png" group-title="Canais Abertos",CANAL RURAL (offline)
-https://mycdn.delivery/canalrural/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://i.postimg.cc/wvxgQNH6/canalrural.png" group-title="Canais Abertos",CANAL RURAL
+http://pfsv.io:80/leticia/131278/81.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.postimg.cc/76BDsLYS/cancaonova.png" group-title="Canais @ Religiosos",CANÇÃO NOVA
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/97
@@ -128,23 +128,23 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/754
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 02
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/755
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 03 (offline)
-https://mycdn.delivery/cinesky3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 03
+http://esrv.cc:80/MarcioK10/Mvd9g/31462.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 04 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/757
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 05 (offline)
-https://mycdn.delivery/cinesky5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 05
+http://esrv.cc:80/MarcioK10/Mvd9g/31464.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 06 
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 06
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/760
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 07 
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 07 (travando)
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/761
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 08 (offline)
-https://mycdn.delivery/cinesky8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 08
+http://esrv.cc:80/MarcioK10/Mvd9g/32035.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="https://i.postimg.cc/GpqpGCc0/cinesky.png" group-title="Canais @ Cine Sky", CINE SKY 09 
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/763
@@ -185,13 +185,13 @@ https://mycdn.delivery/curta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://i.postimg.cc/HndvV9T4/dazn.png" group-title="Canais @ Pay-Per-View", DAZN 1
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/206
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://i.postimg.cc/HndvV9T4/dazn.png" group-title="Canais @ Pay-Per-View", DAZN 2
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://i.postimg.cc/XYdPgj7J/dazn2.png" group-title="Canais @ Pay-Per-View", DAZN 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/205
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://i.postimg.cc/HndvV9T4/dazn.png" group-title="Canais @ Pay-Per-View", DAZN 3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://i.postimg.cc/gkf5RXpQ/dazn3.png" group-title="Canais @ Pay-Per-View", DAZN 3
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/823
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://i.postimg.cc/HndvV9T4/dazn.png" group-title="Canais @ Pay-Per-View", DAZN 4
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://i.postimg.cc/rFd3KGB5/dazn4.png" group-title="Canais @ Pay-Per-View", DAZN 4
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/824
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.postimg.cc/kXKK8Bzk/discovery.png" group-title="Variedades e Documentários",DISCOVERY CHANNEL
@@ -233,13 +233,13 @@ https://mycdn.delivery/e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN PORTUGAL" tvg-logo="https://i.postimg.cc/pXSXzThF/eleven.png" group-title="Esportes",ELEVEN PORTUGAL
 http://5ce.co:80/pamelaflores/92446060a/167483
 
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN PORTUGAL 2" tvg-logo="https://i.postimg.cc/P5dpwKmw/ELEVEN PORTUGAL2.png" group-title="Esportes",ELEVEN PORTUGAL 2
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN PORTUGAL 2" tvg-logo="https://i.postimg.cc/P5dpwKmw/ELEVEN PORTUGAL2.png" group-title="Esportes",ELEVEN PORTUGAL 2 (travando)
 http://5ce.co:80/pamelaflores/92446060a/167482
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN PORTUGAL 3" tvg-logo="https://i.postimg.cc/g24wqRDB/ELEVEN PORTUGAL3.png" group-title="Esportes",ELEVEN PORTUGAL 3
-http://5ce.co:80/pamelaflores/92446060a/167481
+http://5ce.co:80/pamelaflores/92446060a/eleven4
 
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN PORTUGAL 4" tvg-logo="https://i.postimg.cc/N0MKNMCG/ELEVEN PORTUGAL4.png" group-title="Esportes",ELEVEN PORTUGAL 4
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN PORTUGAL 4" tvg-logo="https://i.postimg.cc/N0MKNMCG/ELEVEN PORTUGAL4.png" group-title="Esportes",ELEVEN PORTUGAL 4 (travando)
 http://5ce.co:80/pamelaflores/92446060a/167480
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN PORTUGAL 5" tvg-logo="https://i.postimg.cc/V60d8hc3/ELEVEN PORTUGAL5.png" group-title="Esportes",ELEVEN PORTUGAL 5
@@ -506,8 +506,8 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/113
 #EXTINF:-1 tvg-id="" tvg-name="RTB" tvg-logo="https://i.postimg.cc/G2XzWHdM/rtb.png" group-title="Canais Abertos",RTB (offline)
 https://mycdn.delivery/rtb/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE" tvg-logo="https://i.postimg.cc/prykRRdP/sabor&arte.png" group-title="Variedades e Documentários",SABOR & ARTE (offline)
-https://mycdn.delivery/saborearte/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE" tvg-logo="https://i.postimg.cc/prykRRdP/sabor&arte.png" group-title="Variedades e Documentários",SABOR & ARTE
+http://pfsv.io:80/leticia/131278/127312.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://i.postimg.cc/85cxCmNr/sbt.png" group-title="Canais Abertos",SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
@@ -536,8 +536,8 @@ https://mycdn.delivery/sportvpt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 2" tvg-logo="https://i.postimg.cc/pd62Y73L/sporttvportugal.png" group-title="Esportes",SPORTV PORTUGAL 2 (offline)
 https://mycdn.delivery/sportvportugal2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 3" tvg-logo="https://i.postimg.cc/pd62Y73L/sporttvportugal.png" group-title="Esportes",SPORTV PORTUGAL 3 (offline)
-https://mycdn.delivery/sportvpt3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 3" tvg-logo="https://i.postimg.cc/pd62Y73L/sporttvportugal.png" group-title="Esportes",SPORTV PORTUGAL 3
+http://5ce.co:80/pamelaflores/92446060a/167481
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV PORTUGAL 4" tvg-logo="https://i.postimg.cc/pd62Y73L/sporttvportugal.png" group-title="Esportes",SPORTV PORTUGAL 4 (offline)
 https://mycdn.delivery/sportvpt4/tracks-v1a1/mono.m3u8
