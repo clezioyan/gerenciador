@@ -17,6 +17,9 @@ https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/nh5prJkk/animalplanet.png" group-title="Variedades e Documentários",ANIMAL PLANET
 https://mycdn.delivery/animalplanet/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="appletv.br" tvg-name="APPLE TV" tvg-logo="https://i.postimg.cc/d3xtLHdz/appletv.png" group-title="Variedades e Documentários",APPLE TV (offline)
+https://mycdn.delivery/appletv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://i.postimg.cc/9FzTgzVb/animetv.png" group-title="Infantil", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
