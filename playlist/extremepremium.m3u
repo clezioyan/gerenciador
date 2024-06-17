@@ -101,7 +101,7 @@ https://mycdn.delivery/canaloff/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://i.postimg.cc/wvxgQNH6/canalrural.png" group-title="Canais @ Agro",CANAL RURAL
 http://pfsv.io:80/leticia/131278/81.ts
 
-#EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL SOLO FERTIL" tvg-logo="https://i.postimg.cc/wvxgQNH6/canalrural.png" group-title="Canais @ Agro",CANAL SOLO FERTIL
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SOLO FERTIL" tvg-logo="" group-title="Canais @ Agro",CANAL SOLO FERTIL 
 https://canalsolofertil.live/memfs/f2606ea4-0a77-40ac-91f6-1e803a34405c_output_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.postimg.cc/76BDsLYS/cancaonova.png" group-title="Canais @ Religiosos",CANÇÃO NOVA
