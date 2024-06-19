@@ -80,7 +80,7 @@ http://pfsv.io:80/leticia/131278/186249.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/fT1WQk7K/bbb.png" group-title="Canais @ BBB Câmeras", BBB CAM11 (offline)
 http://pfsv.io:80/leticia/131278/186248.ts
 
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="https://i.postimg.cc/nVwq1dyy/bis.png" group-title="Canais @ Músicas)", BIS
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="https://i.postimg.cc/nVwq1dyy/bis.png" group-title="Canais @ Músicas", BIS
 https://mycdn.delivery/bis/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG" tvg-logo="https://i.postimg.cc/j5qVwTxF/bloomberg.png" group-title="Notícias", BLOOMBERG
