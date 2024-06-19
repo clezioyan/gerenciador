@@ -3,7 +3,10 @@
 https://mycdn.delivery/aee/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="Filmes e Séries", A&E (teste sinal)
-http://alphtv1.b-cdn.net/play/live/7AE9705092CE43A1/816382.ts
+http://alphtv1.b-cdn.net/play/live/aande/816382.ts
+
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="Filmes e Séries", A&E (teste sinal 2)
+http://alphtv1.b-cdn.net/play/live/aee/816382.ts
 
 #EXTINF:-1 tvg-id="agrobrasiltv.br" tvg-name="AGRO BRASIL TV" tvg-logo="https://i.postimg.cc/Z59mfm1d/agrobrasiltv.png" group-title="Canais @ Agro", AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w2045318308.m3u8
