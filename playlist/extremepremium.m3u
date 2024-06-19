@@ -371,6 +371,18 @@ https://mycdn.delivery/hboplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="Filmes e Séries",HBO+ (SERVIDOR 2)
 http://5ce.co:80/pamelaflores/92446060a/34863
 
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="Filmes e Séries",HBO+ (SERVIDOR 3)
+http://esrv.cc:80/live/MarcoLive/Dg639925/314590.ts
+
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="Filmes e Séries",HBO+ (SERVIDOR 4)
+https://esrv.cc:80/live/MarcoLive/Dg639925/314590.ts
+
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="Filmes e Séries",HBO+ (SERVIDOR 5)
+http://esrv.cc/live/MarcoLive/Dg639925/314590.ts
+
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="Filmes e Séries",HBO+ (SERVIDOR 6)
+https://esrv.cc/live/MarcoLive/Dg639925/314590.ts
+
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP" tvg-logo="https://i.postimg.cc/xT6Y6PwH/hbopop.png" group-title="Filmes e Séries",HBO POP (instável)
 https://mycdn.delivery/hbopop/tracks-v1a1/mono.m3u8
 
