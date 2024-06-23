@@ -17,6 +17,9 @@ https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/nh5prJkk/animalplanet.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",ANIMAL PLANET
 https://mycdn.delivery/animalplanet/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/nh5prJkk/animalplanet.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",ANIMAL PLANET (link 2)
+https://mycdn.delivery/animalplanet/tracks-v1a1/2024/06/23/00/45/42-05600.ts
+
 #EXTINF:-1 tvg-id="appletv.br" tvg-name="APPLE TV" tvg-logo="https://i.postimg.cc/d3xtLHdz/appletv.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",APPLE TV (offline)
 https://mycdn.delivery/appletv/tracks-v1a1/mono.m3u8
 
