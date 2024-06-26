@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="testE" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="CANAIS | FILMES E SÉRIES", teste 1
-https://drive.google.com/file/d/1GC1f_lBj76rkrwStjyd9oZRx0-1mGXSo/view?usp=sharing
-
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="CANAIS | FILMES E SÉRIES", A&E
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/851
 
@@ -88,7 +85,8 @@ http://pfsv.io:80/leticia/131278/186249.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.postimg.cc/fT1WQk7K/bbb.png" group-title="CANAIS | BBB CÂMERAS", BBB CAM11 (offline)
 http://pfsv.io:80/leticia/131278/186248.ts
 
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="https://i.postimg.cc/nVwq1dyy/bis.png" group-title="CANAIS | MÚSICAS", BIS
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS" tvg-logo="https://i.postimg.cc/nVwq1dyy/bis.png" group-title="CANAIS | MÚSICAS", BIS
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/881
 
 #EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG" tvg-logo="https://i.postimg.cc/j5qVwTxF/bloomberg.png" group-title="CANAIS | JORNALISMO", BLOOMBERG
 http://5ce.co:80/pamelaflores/92446060a/219024
@@ -96,7 +94,8 @@ http://5ce.co:80/pamelaflores/92446060a/219024
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG" tvg-logo="https://i.postimg.cc/kMxB2TnN/boomerang.png" group-title="CANAIS | JORNALISMO", BOOMERANG (offline)
 https://stmv1.srvif.com/animetv/boomerabg/playlist.m3u8
 
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://i.postimg.cc/5tSfz3h7/canalbrasil.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://i.postimg.cc/5tSfz3h7/canalbrasil.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/883
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="https://i.postimg.cc/XYFjj3Q0/canaldoboi.png" group-title="CANAIS | AGRO",CANAL DO BOI
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/486
@@ -104,7 +103,8 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/486
 #EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT" tvg-logo="https://i.postimg.cc/g0WYr5TL/canalgoat.png" group-title="CANAIS | ESPORTES PPV", CANAL GOAT
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/1264
 
-#EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF" tvg-logo="https://i.postimg.cc/KjK4mHS6/canaloff.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",CANAL OFF
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="https://i.postimg.cc/KjK4mHS6/canaloff.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",CANAL OFF
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/859
 
 #EXTINF:-1 tvg-id="canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://i.postimg.cc/wvxgQNH6/canalrural.png" group-title="CANAIS | AGRO",CANAL RURAL
 http://pfsv.io:80/leticia/131278/81.ts
@@ -115,9 +115,11 @@ https://canalsolofertil.live/memfs/f2606ea4-0a77-40ac-91f6-1e803a34405c_output_0
 #EXTINF:-1 tvg-id="cancaonova.br" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.postimg.cc/76BDsLYS/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/97
 
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/t4Xy4HkP/cartoonito.png" group-title="CANAIS | INFANTIS",CARTOONITO 
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/t4Xy4HkP/cartoonito.png" group-title="CANAIS | INFANTIS",CARTOONITO 
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/822
 
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/02wr3FCm/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/02wr3FCm/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/80558
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://i.postimg.cc/8c9GGnv5/cazetv.png" group-title="CANAIS | ESPORTES PPV",CAZE TV
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/90526
@@ -125,7 +127,8 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/90526
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2" tvg-logo="https://i.postimg.cc/8c9GGnv5/cazetv.png" group-title="CANAIS | ESPORTES PPV",CAZE TV 2
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/90527
 
-#EXTINF:-1 tvg-id="" tvg-name="CBN SP" tvg-logo="https://i.postimg.cc/cLG6NhDz/cbn.png" group-title="CANAIS | JORNALISMO",CBN SP (offline)
+#EXTINF:-1 tvg-id="" tvg-name="CBN RÁDIO" tvg-logo="https://i.postimg.cc/cLG6NhDz/cbn.png" group-title="CANAIS | JORNALISMO",CBN RÁDIO
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/178
 
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINE CANAL" tvg-logo="https://i.postimg.cc/CLDLSbTZ/cinecanal.png" group-title="CANAIS | FILMES E SÉRIES",CINE CANAL
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/837
@@ -185,11 +188,13 @@ https://d1wwtskvr1r98k.cloudfront.net/out/v1/6a9edbefc23e452d8933c7fde4c83cde/in
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/122
 
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.postimg.cc/nrQVy9qZ/comedycentral.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",COMEDY CENTRAL
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/858
 
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="https://i.postimg.cc/28LmGrpB/cultura.png" group-title="CANAIS | ABERTOS", CULTURA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 
-#EXTINF:-1 tvg-id="" tvg-name="CURTA!" tvg-logo="https://i.postimg.cc/9X4GmxpX/curta.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",CURTA!
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA!" tvg-logo="https://i.postimg.cc/9X4GmxpX/curta.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",CURTA!
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/463
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://i.postimg.cc/HndvV9T4/dazn.png" group-title="CANAIS | ESPORTES PPV", DAZN 1
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/206
@@ -203,30 +208,40 @@ http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/823
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://i.postimg.cc/rFd3KGB5/dazn4.png" group-title="CANAIS | ESPORTES PPV", DAZN 4
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/824
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.postimg.cc/kXKK8Bzk/discovery.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.postimg.cc/kXKK8Bzk/discovery.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/808
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://i.postimg.cc/mr2H0Vks/discoveryh-h.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY H&H
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H" tvg-logo="https://i.postimg.cc/mr2H0Vks/discoveryh-h.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY H&H
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/807
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://i.postimg.cc/VkwMFzc5/discoveryid.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY ID
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID" tvg-logo="https://i.postimg.cc/VkwMFzc5/discoveryid.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY ID
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/819
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.postimg.cc/Dwm77Zq0/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.postimg.cc/Dwm77Zq0/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/824
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.postimg.cc/rw94n78j/discoveryscience.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.postimg.cc/rw94n78j/discoveryscience.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY SCIENCE
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/820
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.postimg.cc/857rC5LX/discoverytheater.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.postimg.cc/857rC5LX/discoverytheater.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY THEATER
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/821
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.postimg.cc/ZYgyNW3Z/discoveryturbo.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.postimg.cc/ZYgyNW3Z/discoveryturbo.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY TURBO
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/818
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.postimg.cc/qRW66TLJ/discoveryworld.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.postimg.cc/qRW66TLJ/discoveryworld.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",DISCOVERY WORLD
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/802
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.postimg.cc/J0JDb26b/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="Disney.br" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.postimg.cc/J0JDb26b/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/825
 
 #EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="https://i.postimg.cc/Nj1thDjs/dogtv.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS", DOG TV
 http://5ce.co:80/pamelaflores/92446060a/98441
 
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.postimg.cc/RV5nMvhG/dw.png" group-title="CANAIS | JORNALISMO", DW (offline)
 
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/dtcwgCT5/e.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",E! Entertainment
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/dtcwgCT5/e.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",E! Entertainment
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/864
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN PORTUGAL" tvg-logo="https://i.postimg.cc/pXSXzThF/eleven.png" group-title="CANAIS | ESPORTES",ELEVEN PORTUGAL
 http://5ce.co:80/pamelaflores/92446060a/167483
@@ -268,11 +283,14 @@ http://5ce.co:80/pamelaflores/92446060a/21123
 
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.postimg.cc/vmcmrKDc/fashiontv.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",FASHION TV
 
-#EXTINF:-1 tvg-id="" tvg-name="FILM&ARTS" tvg-logo="https://i.postimg.cc/rp3wQ9tg/filmsarts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM&ARTS" tvg-logo="https://i.postimg.cc/rp3wQ9tg/filmsarts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/855
 
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="https://i.postimg.cc/Y9FqVm67/fishtv.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",FISH TV
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV" tvg-logo="https://i.postimg.cc/Y9FqVm67/fishtv.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",FISH TV
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/239
 
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://i.postimg.cc/YqVF5kCH/foodnetwork.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",FOOD NETWORK
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK" tvg-logo="https://i.postimg.cc/YqVF5kCH/foodnetwork.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",FOOD NETWORK
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/863
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX KIDS" tvg-logo="https://i.postimg.cc/T3DbGSKW/foxkids.png" group-title="CANAIS | INFANTIS",FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
@@ -364,36 +382,47 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/76701
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="https://i.postimg.cc/jSkxShvK/globonews.png" group-title="CANAIS | JORNALISMO",GLOBO NEWS
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/498
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="https://i.postimg.cc/13zRSdGJ/gloob.png" group-title="CANAIS | INFANTIS",GLOOB
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB" tvg-logo="https://i.postimg.cc/13zRSdGJ/gloob.png" group-title="CANAIS | INFANTIS",GLOOB
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/827
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="https://i.postimg.cc/8CJ1Jrnv/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO" tvg-logo="https://i.postimg.cc/8CJ1Jrnv/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/828
 
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://i.postimg.cc/N03Q1fWz/gnt.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",GNT
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT" tvg-logo="https://i.postimg.cc/N03Q1fWz/gnt.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",GNT
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/862
 
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://i.postimg.cc/SsckVb4N/hbo.png" group-title="CANAIS | FILMES E SÉRIES",HBO
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="https://i.postimg.cc/SsckVb4N/hbo.png" group-title="CANAIS | FILMES E SÉRIES",HBO
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/80564
 
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/mkRR5pZ3/hbo2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/mkRR5pZ3/hbo2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/793
 
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="https://i.postimg.cc/Y2ftW78d/hbofamily.png" group-title="CANAIS | FILMES E SÉRIES",HBO FAMILY
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="https://i.postimg.cc/Y2ftW78d/hbofamily.png" group-title="CANAIS | FILMES E SÉRIES",HBO FAMILY
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/795
 
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI" tvg-logo="https://i.postimg.cc/KjNFS746/hbomundi.png" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI
+#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI" tvg-logo="https://i.postimg.cc/KjNFS746/hbomundi.png" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/260
 
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="CANAIS | FILMES E SÉRIES",HBO+ (offline)
-
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="CANAIS | FILMES E SÉRIES",HBO+ (SERVIDOR 2)
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+" tvg-logo="https://i.postimg.cc/gkzmy7Tm/hboplus.png" group-title="CANAIS | FILMES E SÉRIES",HBO+
 http://5ce.co:80/pamelaflores/92446060a/34863
 
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP" tvg-logo="https://i.postimg.cc/xT6Y6PwH/hbopop.png" group-title="CANAIS | FILMES E SÉRIES",HBO POP 
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP" tvg-logo="https://i.postimg.cc/xT6Y6PwH/hbopop.png" group-title="CANAIS | FILMES E SÉRIES",HBO POP 
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/799
 
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/K84bwMbW/hbosignature.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE 
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="https://i.postimg.cc/K84bwMbW/hbosignature.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE 
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/796
 
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME" tvg-logo="https://i.postimg.cc/tgxjCGYt/hboxtreme.png" group-title="CANAIS | FILMES E SÉRIES",HBO XTREME 
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME" tvg-logo="https://i.postimg.cc/tgxjCGYt/hboxtreme.png" group-title="CANAIS | FILMES E SÉRIES",HBO XTREME 
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/798
 
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/W1KVv1b1/hgtv.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",HGTV 
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/W1KVv1b1/hgtv.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",HGTV 
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/861
 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.postimg.cc/hjpzpR5N/historychannel.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.postimg.cc/hjpzpR5N/historychannel.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",HISTORY CHANNEL
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/781
 
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://i.postimg.cc/MTWf7pdy/h2.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",H2
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2" tvg-logo="https://i.postimg.cc/MTWf7pdy/h2.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",H2
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/806
 
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://i.postimg.cc/jqQMbCGb/1000003044-removebg-preview.png" group-title="CANAIS | FILMES E SÉRIES",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
@@ -434,11 +463,14 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/843
 
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://i.postimg.cc/rwxD7rH1/musicboxbrazil.png" group-title="CANAIS | MÚSICAS",MUSIC BOX BRAZIL
 
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/g0Nx2jdC/nationalgeographic.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC 
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/g0Nx2jdC/nationalgeographic.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC 
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/80572
 
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON" tvg-logo="https://i.postimg.cc/bvt82BVj/nickelodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON" tvg-logo="https://i.postimg.cc/bvt82BVj/nickelodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/830
 
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR" tvg-logo="https://i.postimg.cc/Gh5VBS0M/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR" tvg-logo="https://i.postimg.cc/Gh5VBS0M/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/831
 
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL" tvg-logo="https://i.postimg.cc/gctLhdRZ/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/96522
@@ -583,7 +615,6 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/836
 #EXTINF:-1 tvg-id="Starplus.br" tvg-name="STAR+" tvg-logo="https://i.postimg.cc/qq9crKYG/starplus.png" group-title="CANAIS | ESPORTES PPV",STAR+
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/113
 
-
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="https://i.postimg.cc/qq9crKYG/starplus.png" group-title="CANAIS | ESPORTES PPV",STAR+ 2
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/202
 
@@ -605,22 +636,29 @@ http://pfsv.io:80/leticia/131278/285.
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="https://i.postimg.cc/4dLypbKg/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/877
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo="https://i.postimg.cc/hGSLKcCN/telecineaction.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="https://i.postimg.cc/hGSLKcCN/telecineaction.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/787
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT" tvg-logo="https://i.postimg.cc/25246MMy/telecinecult.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE CULT
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://i.postimg.cc/25246MMy/telecinecult.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE CULT
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/791
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN" tvg-logo="https://i.postimg.cc/MTH1jtJD/telecinefun.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE FUN
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="https://i.postimg.cc/MTH1jtJD/telecinefun.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE FUN
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/790
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.postimg.cc/85YMdW1V/telecinepipoca.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.postimg.cc/85YMdW1V/telecinepipoca.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PIPOCA
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/789
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/J4DZYNmG/telecinepremium.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/J4DZYNmG/telecinepremium.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/786
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH" tvg-logo="https://i.postimg.cc/1XhXFWyx/telecinetouch.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE TOUCH
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="https://i.postimg.cc/1XhXFWyx/telecinetouch.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE TOUCH
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/788
 
 #EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="https://i.postimg.cc/s1dWqrQ6/terraviva.png" group-title="CANAIS | AGRO",TERRA VIVA
 http://5ce.co:80/pamelaflores/92446060a/100493
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.postimg.cc/GhMTTkgX/tlc.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",TLC
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC" tvg-logo="https://i.postimg.cc/GhMTTkgX/tlc.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",TLC
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/809
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.postimg.cc/HxsjJPkz/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/785
@@ -631,7 +669,8 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/856
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES" tvg-logo="https://i.postimg.cc/bwcJ0vvs/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/849
 
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://i.postimg.cc/t4bSV0SN/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST" tvg-logo="https://i.postimg.cc/t4bSV0SN/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/834
 
 #EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA" tvg-logo="https://i.postimg.cc/QxcNsh6Z/tracebrazuca.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",TRACE BRAZUCA
 http://5ce.co:80/pamelaflores/92446060a/113598
@@ -683,11 +722,14 @@ http://pfsv.io:80/leticia/131278/131818.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.postimg.cc/tJ0tQP8N/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/31748
 
-#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="https://i.postimg.cc/wTYHwn9f/viva.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",VIVA
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA" tvg-logo="https://i.postimg.cc/wTYHwn9f/viva.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",VIVA
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/865
 
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://i.postimg.cc/LsxWvsjz/warnerchannel.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL 
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-logo="https://i.postimg.cc/LsxWvsjz/warnerchannel.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL 
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/850
 
-#EXTINF:-1 tvg-id="" tvg-name="WOOHOO" tvg-logo="https://i.postimg.cc/cJdLj5wW/woohoo.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",WOOHOO
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO" tvg-logo="https://i.postimg.cc/cJdLj5wW/woohoo.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",WOOHOO
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/875
 
 #EXTINF:-1 tvg-id="" tvg-name="WORDING TV" tvg-logo="https://i.postimg.cc/9FzTgzVb/animetv.png" group-title="CANAIS | ANIMES",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w765977978.m3u8
@@ -695,7 +737,8 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w765977978.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="X-PLUS TV" tvg-logo="https://i.postimg.cc/8502n8ws/xplustv.png" group-title="CANAIS | VARIEDADES E DOCUMENTÁRIOS",X-PLUS TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1237832344.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="https://i.postimg.cc/Kzzvck0s/zoomoo.png" group-title="CANAIS | INFANTIS",ZOOMOO
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="https://i.postimg.cc/Kzzvck0s/zoomoo.png" group-title="CANAIS | INFANTIS",ZOOMOO
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/832
 
 
 ###################################################           FILMES
