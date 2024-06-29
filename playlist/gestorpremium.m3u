@@ -423,7 +423,7 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/80564
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/792
 
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/mkRR5pZ3/hbo2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2
-http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/793
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/39
 
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/mkRR5pZ3/hbo2.png" group-title="CANAIS | HBO",HBO 2
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/254
@@ -707,7 +707,7 @@ http://pfsv.io:80/leticia/131278/127312.ts
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/193
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://i.postimg.cc/85cxCmNr/sbt.png" group-title="CANAIS | ABERTOS",SBT
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/80567
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT ALTEROSA" tvg-logo="https://i.postimg.cc/kXqLxvSP/sbtalterosa.png" group-title="CANAIS | SBT",SBT ALTEROSA
 http://5ce.co:80/pamelaflores/92446060a/41400
@@ -786,37 +786,32 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/877
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/787
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="https://i.postimg.cc/hGSLKcCN/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION
-http://5ce.co:80/pamelaflores/92446060a/6922
 
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://i.postimg.cc/25246MMy/telecinecult.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE CULT
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/791
 
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://i.postimg.cc/25246MMy/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT
-http://5ce.co:80/pamelaflores/92446060a/6926
 
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="https://i.postimg.cc/MTH1jtJD/telecinefun.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE FUN
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/790
 
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="https://i.postimg.cc/MTH1jtJD/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN
-http://5ce.co:80/pamelaflores/92446060a/6923
 
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.postimg.cc/85YMdW1V/telecinepipoca.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PIPOCA
-http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/789
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/80
 
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.postimg.cc/85YMdW1V/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA
-http://5ce.co:80/pamelaflores/92446060a/6925
+http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/80575
 
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/J4DZYNmG/telecinepremium.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/786
 
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/J4DZYNmG/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM
-http://5ce.co:80/pamelaflores/92446060a/6927
 
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="https://i.postimg.cc/1XhXFWyx/telecinetouch.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE TOUCH
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/788
 
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="https://i.postimg.cc/1XhXFWyx/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH
-http://5ce.co:80/pamelaflores/92446060a/6924
 
 #EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="https://i.postimg.cc/s1dWqrQ6/terraviva.png" group-title="CANAIS | AGRO",TERRA VIVA
 http://5ce.co:80/pamelaflores/92446060a/100493
