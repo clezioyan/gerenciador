@@ -1,9 +1,0 @@
-#EXTM3U
-EXTINF:-1 tvg-id="" tvg-name="PREMIERE" tvg-logo="" group-title="CANAIS | FILMES E SÉRIES",PREMIERE
-https://metalgear.bemtv.cn/STREAM/23403/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC 8yMDIOIDEyOjEyOjIwIFBNJmhhc2hfdmFsdWU9dUNJa1k2UOR1QkJoaThDbldMUn dqQT09JnZhbGlkbWludXRlczOyNDAmaWQ9U1FTYk05NUhwajdvROxjNmw1d2ppTUl mSGY5V3JobU9CY0VZb1pYMFgxTGhWlYxTGxWcnFlYnJxcWxhcnZOdHY%3D
-
-EXTINF:-1 tvg-id="" tvg-name="PREMIERE" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="CANAIS | FILMES E SÉRIES",PREMIERE
-http://metalgear.bemtv.cn/STREAM/23403/chunks.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="PREMIERE" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="CANAIS | FILMES E SÉRIES",PREMIERE
-https://metalgear.bemtv.cn/STREAM/23403/chunks.m3u8
