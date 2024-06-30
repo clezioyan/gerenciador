@@ -2,6 +2,15 @@
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="CANAIS | FILMES E SÉRIES", A&E
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/851
 
+EXTINF:-1 tvg-id="" tvg-name="PREMIERE" tvg-logo="" group-title="CANAIS | FILMES E SÉRIES",PREMIERE
+https://metalgear.bemtv.cn//STREAM/23403/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC 8yMDIOIDEyOjEyOjIwIFBNJmhhc2hfdmFsdWU9dUNJa1k2UOR1QkJoaThDbldMUn dqQT09JnZhbGlkbWludXRlczOyNDAmaWQ9U1FTYk05NUhwajdvROxjNmw1d2ppTUl mSGY5V3JobU9CY0VZb1pYMFgxTGhWlYxTGxWcnFlYnJxcWxhcnZOdHY%3D
+
+EXTINF:-1 tvg-id="" tvg-name="PREMIERE" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="CANAIS | FILMES E SÉRIES",PREMIERE
+http://metalgear.bemtv.cn//STREAM/23403/chunks.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="PREMIERE" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="CANAIS | FILMES E SÉRIES",PREMIERE
+https://metalgear.bemtv.cn//STREAM/23403/chunks.m3u8
+
 #EXTINF:-1 tvg-id="agrobrasiltv.br" tvg-name="AGRO BRASIL TV" tvg-logo="https://i.postimg.cc/Z59mfm1d/agrobrasiltv.png" group-title="CANAIS | AGRO", AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w2045318308.m3u8
 
@@ -386,7 +395,7 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/718
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO PORTO ALEGRE" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="CANAIS | GLOBO",GLOBO PORTO ALEGRE
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/501
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRIDENTE SP" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="CANAIS | GLOBO",GLOBO PRESIDENTE PRIDENTE SP
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRIDENTE SP" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="CANAIS | GLOBO",GLOBO PRESIDENTE PRUDENTE SP
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/748
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ
@@ -401,7 +410,7 @@ http://5ce.co:80/pamelaflores/92446060a/122180
 #EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GLOBO TV SERGIPE" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/336
 
-#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="CANAIS | ABERTOS", GLOBO TV VERDES MARES FORTALEZA
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="https://i.postimg.cc/gJ0bZPqj/globo.png" group-title="CANAIS | GLOBO", GLOBO TV VERDES MARES FORTALEZA
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/76701
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="https://i.postimg.cc/jSkxShvK/globonews.png" group-title="CANAIS | JORNALISMO",GLOBO NEWS
@@ -587,15 +596,6 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/196
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/165
 
-EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES TESTE 1" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="CANAIS | PREMIERE teste",PREMIERE CLUBES TESTE 1
-https://metalgear.bemtv.cn//STREAM/23403/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC 8yMDIOIDEyOjEyOjIwIFBNJmhhc2hfdmFsdWU9dUNJa1k2UOR1QkJoaThDbldMUn dqQT09JnZhbGlkbWludXRlczOyNDAmaWQ9U1FTYk05NUhwajdvROxjNmw1d2ppTUl mSGY5V3JobU9CY0VZb1pYMFgxTGhWlYxTGxWcnFlYnJxcWxhcnZOdHY%3D
-
-EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES TESTE 2" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="CANAIS | PREMIERE teste",PREMIERE CLUBES TESTE 2
-http://metalgear.bemtv.cn//STREAM/23403/chunks.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES TESTE 3" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="CANAIS | PREMIERE teste",PREMIERE CLUBES TESTE 3
-https://metalgear.bemtv.cn//STREAM/23403/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="https://i.postimg.cc/rsQJMMsg/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/149
 
@@ -712,7 +712,7 @@ http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/162
 #EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE" tvg-logo="https://i.postimg.cc/prykRRdP/sabor&arte.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE
 http://pfsv.io:80/leticia/131278/127312.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SAMBA E PAGODE FM" tvg-logo="" group-title="RADIOS",SAMBA E PAGODE FM
+#EXTINF:-1 tvg-id="" tvg-name="SAMBA E PAGODE FM" tvg-logo="" group-title="CANAIS | RÁDIOS",SAMBA E PAGODE FM
 http://bccdn.xyz:80/Marciaribeiro23/Tv4908546/193
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://i.postimg.cc/85cxCmNr/sbt.png" group-title="CANAIS | ABERTOS",SBT
