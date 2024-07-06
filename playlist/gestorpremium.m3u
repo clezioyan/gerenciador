@@ -186,7 +186,7 @@ https://cdn-2.nxplay.com.br/DISCOVERY_WORLD_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="https://i.postimg.cc/Nj1thDjs/dogtv.png" group-title="CANAIS | VARIEDADES", DOG TV
 
-#EXTINF:-1 tvg-id="" tvg-name="DORAMAS TV" tvg-logo="https://i.postimg.cc/FFP9xhN8/doramasflix.png" group-title="CANAIS | ANIMES E DORAMAS E DORAMAS", DORAMAS TV
+#EXTINF:-1 tvg-id="" tvg-name="DORAMAS TV" tvg-logo="https://i.postimg.cc/FFP9xhN8/doramasflix.png" group-title="CANAIS | ANIMES E DORAMAS", DORAMAS TV
 https://stmv3.voxtvhd.com.br/doramastv/doramastv/chunklist_w869408161.m3u8
 
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/dtcwgCT5/e.png" group-title="CANAIS | VARIEDADES",E! Entertainment
