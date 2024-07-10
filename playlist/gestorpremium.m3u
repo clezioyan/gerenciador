@@ -684,6 +684,9 @@ https://abc.embedmax.site/sportv1/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="CANAIS | ESPORTES",SPORTV teste
 https://github.com/clezioyan/gerenciador/blob/gh-pages/servidor/sportv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="CANAIS | ESPORTES",SPORTV teste 2
+https://abc.embedmax.site/sportv1/tracks-v1a1/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="https://i.postimg.cc/65JnS7Qc/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2
 https://abc.embedmax.site/sportv2/tracks-a1/index.fmp4.m3u8
 
