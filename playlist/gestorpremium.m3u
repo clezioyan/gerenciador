@@ -739,6 +739,9 @@ https://abc.embedmax.site/tcpipoca/tracks-v1a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/J4DZYNmG/telecinepremium.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM
 https://abc.embedmax.site/tcpremium/tracks-v1a1/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/J4DZYNmG/telecinepremium.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM teste
+https://abc.embedmax.site/tcpremium/preview.mp4
+
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/J4DZYNmG/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM
 https://abc.embedmax.site/tcpremium/tracks-v1a1/index.fmp4.m3u8
 
