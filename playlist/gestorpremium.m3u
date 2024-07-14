@@ -2,6 +2,18 @@
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="CANAIS | FILMES E SÉRIES", A&E
 http://esrv.cc:80/MarcioK10/Mvd9g/2.ts
 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="CANAIS | FILMES E SÉRIES", A&E teste 1
+http:38.62.226.130:30817/live/pt_8D673F16C2968E1F3F056BA6_480p.ts?si_key=shisui-1718790008280086621&si_val=717638-717642&sp_ key-sensei-1711526800494325426&sp_val=394669-394673
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="CANAIS | FILMES E SÉRIES", A&E teste 2
+http:38.62.226.130:30817/live/pt_8D673F16C2968E1F3F056BA6_480p.ts
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="CANAIS | FILMES E SÉRIES", A&E teste 3
+https:38.62.226.130:30817/live/pt_8D673F16C2968E1F3F056BA6_480p.ts
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="https://i.postimg.cc/sX3vLkTP/aande.png" group-title="CANAIS | FILMES E SÉRIES", A&E teste 4
+https:38.62.226.130:30817/live/pt_8D673F16C2968E1F3F056BA6_480p.ts?si_key=shisui-1718790008280086621&si_val=717638-717642&sp_ key-sensei-1711526800494325426&sp_val=394669-39467
+
 #EXTINF:-1 tvg-id="agrobrasiltv.br" tvg-name="AGRO BRASIL TV" tvg-logo="https://i.postimg.cc/Z59mfm1d/agrobrasiltv.png" group-title="CANAIS | AGRO", AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w2045318308.m3u8
 
