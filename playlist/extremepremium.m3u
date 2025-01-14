@@ -563,6 +563,9 @@ https://mycdn.delivery/sportvportugal6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="CANAIS | ESPORTES",SPORTV
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.postimg.cc/9FdZjWRh/sportv.png" group-title="CANAIS | ESPORTES",SPORTV teste
+http://ezcdn.vood.top/hls/118881_2016.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="https://i.postimg.cc/65JnS7Qc/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31163
 
